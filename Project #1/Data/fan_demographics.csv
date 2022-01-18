@@ -1,0 +1,362 @@
+Q18_1,Q18_2,Q18_3,Q18_4,Q18_5,Q18_6,Q18_7,Q18_8,generation,gender,race,SES,political_spectrum,religious_spectrum,nationality
+3,2,4,3,4,4,4,4,Millennial,Male,White,>50k & <100k,Neutral,Neutral,United States
+2,2,6,6,6,6,2,4,Gen X,Male,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+5,4,6,6,4,5,7,4,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+4,3,6,5,7,5,3,6,Millennial,Male,African American,<50k,Neutral,Extremely Non-religious,United States
+5,6,7,6,6,6,7,6,Millennial,Female,White,>100k & <200k,Quite Conservative,Moderately Religious,United States
+5,5,7,5,7,7,7,7,Millennial,Male,Asian,<50k,Moderately Conservative,Usually Non-religious,United States
+7,7,7,7,7,7,7,7,Gen Z,Female,Hispanic,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,7,1,1,1,1,1,1,Millennial,Female,African American,>50k & <100k,Neutral,Neutral,United States
+4,4,4,4,4,4,3,2,Boomer,Male,White,>100k & <200k,Moderately Conservative,Quite Non-religious,United States
+5,4,3,4,4,5,5,4,Millennial,Female,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+6,5,7,6,5,5,4,3,Millennial,Female,White,>100k & <200k,Quite Liberal,Usually Non-religious,United States
+4,3,7,5,5,6,6,7,Gen X,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+4,4,7,4,4,4,4,4,Gen X,Male,White,<50k,Neutral,Extremely Religious,United States
+7,7,7,7,4,4,4,7,Millennial,Female,White,<50k,Extremely Liberal,Extremely Religious,United States
+2,1,7,1,1,1,1,4,Boomer,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+1,1,5,3,4,5,5,5,Gen X,Null,Mixed Race,>50k & <100k,Quite Conservative,Neutral,United States
+6,7,6,6,5,7,7,6,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+3,3,6,4,4,4,6,4,Boomer,Female,White,>50k & <100k,Extremely Conservative,Neutral,United States
+5,2,3,5,4,6,3,3,Millennial,Male,White,>100k & <200k,Moderately Conservative,Usually Non-religious,United States
+5,5,4,6,5,5,7,5,Millennial,Female,Mixed Race,>200k,Extremely Liberal,Extremely Non-religious,United States
+5,4,5,6,5,4,5,4,Millennial,Male,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+2,2,2,2,2,2,2,2,Millennial,Male,Asian,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+5,5,7,7,7,7,1,4,Millennial,Male,White,>50k & <100k,Neutral,Neutral,United States
+7,7,2,2,2,7,2,2,Gen Z,Female,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+5,5,5,4,5,6,3,4,Gen Z,Female,Mixed Race,>50k & <100k,Moderately Conservative,Extremely Religious,United States
+4,4,5,5,4,4,1,4,Gen Z,Male,Hispanic,<50k,Extremely Liberal,Extremely Religious,United States
+7,7,7,7,1,1,1,1,Boomer,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+7,7,5,3,3,2,1,1,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+7,7,7,7,7,7,7,7,Millennial,Male,White,>100k & <200k,Quite Conservative,Extremely Non-religious,United States
+5,6,5,5,3,6,5,5,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+7,6,5,6,5,7,5,5,Gen X,Male,White,>200k,Moderately Conservative,Neutral,United States
+7,6,7,6,6,7,6,7,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+6,6,6,6,6,6,6,6,Gen X,Female,White,>50k & <100k,Quite Conservative,Quite Religious,United States
+3,5,5,2,2,2,5,5,Boomer,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+4,3,7,5,4,4,4,6,Boomer,Female,White,>100k & <200k,Neutral,Moderately Religious,United States
+2,2,6,1,1,1,1,1,Millennial,Female,Asian,>100k & <200k,Neutral,Usually Non-religious,United States
+7,7,7,7,7,7,7,7,Boomer,Female,White,<50k,Moderately Conservative,Moderately Religious,United States
+2,3,3,4,4,5,3,2,Millennial,Male,African American,<50k,Neutral,Extremely Non-religious,United States
+2,2,3,3,3,3,5,4,Millennial,Male,White,<50k,Quite Liberal,Quite Religious,United States
+6,4,7,6,6,6,6,5,Millennial,Female,White,>100k & <200k,Extremely Conservative,Quite Non-religious,United States
+6,5,6,6,5,5,2,7,Millennial,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+5,5,6,6,6,6,2,1,Millennial,Male,White,<50k,Extremely Conservative,Usually Non-religious,United States
+4,4,7,5,5,6,6,1,Boomer,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+5,5,4,4,5,4,2,2,Gen Z,Male,Hispanic,<50k,Neutral,Neutral,United States
+4,5,3,5,4,5,3,4,Millennial,Male,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+5,5,4,2,5,6,6,1,Gen X,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,6,6,7,6,4,Millennial,Male,Asian,>100k & <200k,Neutral,Moderately Religious,United States
+3,3,5,4,4,4,4,4,Gen X,Male,Mixed Race,<50k,Neutral,Extremely Non-religious,United States
+6,7,6,5,7,6,5,6,Millennial,Male,White,<50k,Quite Liberal,Usually Non-religious,United States
+1,1,1,1,1,1,1,1,Millennial,Male,Asian,<50k,Neutral,Extremely Non-religious,United States
+2,2,5,3,3,3,4,2,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+4,4,4,4,2,2,1,1,Boomer,Female,Asian,<50k,Neutral,Moderately Religious,Asia/Oceania
+6,5,7,6,6,7,6,7,Millennial,Male,Asian,>100k & <200k,Moderately Conservative,Extremely Religious,United States
+1,1,2,2,2,2,3,2,Gen X,Female,Mixed Race,<50k,Extremely Liberal,Extremely Non-religious,United States
+6,5,4,4,4,4,5,3,Millennial,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+4,3,5,4,5,4,3,3,Millennial,Male,White,>50k & <100k,Quite Conservative,Usually Non-religious,United States
+4,3,3,3,2,2,3,1,Gen X,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+5,5,7,3,2,4,7,3,Boomer,Female,White,<50k,Extremely Liberal,Neutral,United States
+1,1,4,3,7,4,2,5,Boomer,Female,African American,<50k,Quite Conservative,Extremely Religious,United States
+4,5,6,4,3,3,6,4,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,7,7,7,4,4,Millennial,Female,White,<50k,Extremely Liberal,Neutral,United States
+6,6,6,6,6,6,6,6,Boomer,Male,White,<50k,Moderately Conservative,Moderately Religious,United States
+7,5,4,3,2,1,2,1,Gen X,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+2,1,2,7,7,7,7,7,Millennial,Female,White,<50k,Extremely Conservative,Extremely Non-religious,United States
+6,5,4,6,4,5,6,5,Boomer,Male,White,>50k & <100k,Extremely Conservative,Neutral,United States
+5,6,5,6,5,4,4,5,Gen Z,Male,White,>50k & <100k,Extremely Conservative,Extremely Non-religious,United States
+4,4,4,5,5,5,4,5,Millennial,Male,White,>100k & <200k,Neutral,Moderately Religious,United States
+2,2,4,4,5,5,1,1,Millennial,Female,African American,<50k,Neutral,Moderately Religious,United States
+6,7,7,7,5,6,3,5,Millennial,Female,Hispanic,>50k & <100k,Quite Conservative,Quite Religious,United States
+7,6,7,7,6,7,6,7,Gen X,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,5,6,6,5,5,4,4,Gen Z,Male,White,<50k,Neutral,Extremely Non-religious,United States
+6,7,6,4,5,5,3,5,Millennial,Female,White,<50k,Extremely Liberal,Extremely Religious,United States
+7,6,7,5,7,7,7,6,Gen X,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+5,5,4,6,5,5,6,5,Millennial,Male,White,>50k & <100k,Moderately Conservative,Neutral,United States
+2,2,5,5,5,5,5,5,Gen X,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+4,4,4,4,4,4,4,4,Gen X,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+5,4,6,4,4,4,1,1,Boomer,Male,White,>200k,Moderately Conservative,Extremely Non-religious,United States
+2,2,5,4,4,4,3,2,Gen X,Female,White,>100k & <200k,Quite Liberal,Quite Non-religious,United States
+4,6,7,4,5,3,6,6,Boomer,Female,African American,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+1,1,5,2,2,3,3,2,Millennial,Male,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+5,5,6,5,3,5,4,2,Millennial,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+5,4,6,5,6,5,4,3,Gen Z,Female,White,>50k & <100k,Neutral,Neutral,United States
+5,5,5,5,4,5,1,1,Gen Z,Male,Asian,>50k & <100k,Moderately Conservative,Neutral,United States
+5,5,7,5,5,6,6,1,Boomer,Male,Mixed Race,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+6,6,5,2,2,2,4,3,Gen X,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+5,5,7,4,4,4,4,4,Boomer,Female,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+5,2,7,4,3,4,4,1,Millennial,Female,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+5,4,6,4,4,4,5,4,Gen X,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+5,4,6,6,6,7,7,6,Gen Z,Female,Mixed Race,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,5,3,4,1,1,Boomer,Male,White,<50k,Neutral,Extremely Religious,United States
+4,4,7,5,4,4,4,5,Gen X,Male,White,<50k,Neutral,Moderately Religious,United States
+1,1,2,1,1,2,1,1,Gen X,Male,White,>50k & <100k,Quite Liberal,Neutral,United States
+3,3,4,3,2,3,2,2,Boomer,Male,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+6,6,6,5,6,6,6,6,Silent Gen,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+2,1,3,3,2,6,4,1,Gen X,Male,Asian,>100k & <200k,Quite Conservative,Quite Religious,United States
+3,4,5,6,6,4,2,1,Boomer,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+4,4,5,5,5,5,5,2,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,4,4,4,1,1,Gen Z,Female,White,<50k,Neutral,Extremely Non-religious,United States
+3,3,3,3,4,4,4,3,Gen X,Female,White,>100k & <200k,Quite Conservative,Extremely Non-religious,United States
+6,5,7,3,1,5,6,6,Millennial,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+5,5,6,5,5,5,5,2,Millennial,Female,Asian,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+1,1,5,5,5,5,4,1,Gen X,Female,White,<50k,Neutral,Extremely Non-religious,United States
+3,1,4,4,3,2,5,1,Millennial,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+5,3,7,5,4,3,4,1,Gen Z,Female,Asian,>50k & <100k,Quite Conservative,Extremely Non-religious,United States
+5,6,4,3,2,2,1,1,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+4,3,7,4,3,2,2,2,Gen X,Male,White,>200k,Quite Conservative,Quite Religious,United States
+6,6,5,6,6,6,4,4,Boomer,Male,White,<50k,Moderately Conservative,Usually Non-religious,United States
+4,3,7,4,4,5,1,3,Millennial,Male,White,>100k & <200k,Moderately Conservative,Neutral,United States
+5,5,5,5,4,4,5,5,Gen Z,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,6,6,6,6,7,1,1,Millennial,Female,White,<50k,Neutral,Extremely Non-religious,United States
+5,5,6,4,4,4,5,5,Gen X,Female,White,>50k & <100k,Quite Conservative,Quite Religious,United States
+1,1,7,5,7,6,1,1,Millennial,Male,Asian,>50k & <100k,Quite Conservative,Extremely Non-religious,United States
+1,1,3,5,5,5,5,5,Boomer,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+4,3,5,5,4,6,5,6,Millennial,Female,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+2,2,3,5,3,5,1,1,Millennial,Male,Asian,>100k & <200k,Neutral,Extremely Non-religious,United States
+2,2,3,4,4,4,4,2,Millennial,Male,Hispanic,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+2,2,6,4,3,4,5,1,Millennial,Female,Mixed Race,<50k,Moderately Conservative,Extremely Non-religious,United States
+7,7,7,4,4,7,7,4,Boomer,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+4,2,4,3,3,4,4,3,Millennial,Male,White,>100k & <200k,Quite Conservative,Quite Non-religious,United States
+6,3,4,5,2,7,5,2,Millennial,Male,African American,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+5,5,6,4,4,5,5,6,Gen X,Male,White,<50k,Extremely Conservative,Extremely Religious,United States
+4,4,4,3,3,4,2,2,Boomer,Male,White,>100k & <200k,Quite Conservative,Quite Religious,United States
+7,7,7,7,7,7,7,7,Millennial,Female,Asian,>100k & <200k,Moderately Conservative,Neutral,United States
+5,4,5,2,2,2,5,2,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,5,6,6,3,3,3,2,Millennial,Male,White,<50k,Quite Liberal,Quite Religious,United States
+1,1,3,1,1,3,1,3,Gen X,Male,Hispanic,<50k,Extremely Conservative,Neutral,United States
+6,6,7,7,7,7,6,5,Silent Gen,Female,White,<50k,Extremely Conservative,Quite Religious,United States
+4,4,3,3,2,2,6,1,Boomer,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,7,6,7,7,7,3,3,Gen X,Female,Hispanic,<50k,Neutral,Quite Religious,United States
+6,6,6,6,6,6,6,6,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+1,1,2,2,2,2,2,2,Gen X,Male,White,<50k,Moderately Conservative,Moderately Religious,United States
+4,4,6,5,4,5,4,5,Boomer,Male,White,>50k & <100k,Neutral,Moderately Religious,United States
+5,6,5,5,5,5,5,5,Millennial,Male,Asian,>100k & <200k,Quite Conservative,Neutral,United States
+5,4,5,4,5,5,6,5,Millennial,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+5,5,6,5,6,6,6,4,Millennial,Male,White,>100k & <200k,Extremely Conservative,Usually Non-religious,United States
+1,1,7,2,4,5,5,5,Millennial,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+4,3,3,3,4,5,6,6,Gen Z,Male,White,>100k & <200k,Extremely Liberal,Usually Non-religious,United States
+1,1,7,6,6,7,6,7,Gen X,Female,Other,<50k,Extremely Conservative,Extremely Religious,Africa
+7,7,7,1,1,1,1,4,Gen X,Male,White,>50k & <100k,Extremely Liberal,Moderately Religious,United States
+6,5,6,5,2,2,5,1,Gen Z,Female,White,>200k,Extremely Liberal,Extremely Non-religious,United States
+4,2,7,4,5,5,3,6,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Religious,United States
+5,5,6,6,5,5,5,7,Millennial,Male,Other,>50k & <100k,Extremely Conservative,Extremely Religious,Latin America
+7,7,4,4,4,4,6,7,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+4,3,6,4,3,4,3,4,Millennial,Male,White,>50k & <100k,Neutral,Quite Religious,United States
+5,4,7,5,3,5,5,3,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+2,2,3,1,1,1,5,2,Boomer,Male,White,<50k,Quite Conservative,Usually Non-religious,United States
+4,4,4,4,5,5,4,6,Gen Z,Female,African American,>200k,Moderately Conservative,Extremely Religious,United States
+2,1,4,4,2,1,6,7,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+2,2,6,7,2,2,5,1,Millennial,Female,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+5,5,7,6,4,5,1,1,Gen X,Male,White,>200k,Extremely Conservative,Extremely Religious,United States
+2,2,1,3,6,3,6,1,Millennial,Female,Asian,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+3,3,4,5,6,6,4,3,Gen Z,Female,African American,<50k,Extremely Liberal,Moderately Religious,United States
+4,4,5,5,4,4,4,5,Millennial,Female,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+5,5,6,4,4,4,4,4,Millennial,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Religious,United States
+2,2,5,4,6,6,3,1,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+2,2,2,2,2,2,2,2,Boomer,Male,White,<50k,Neutral,Quite Religious,United States
+2,1,6,5,4,4,6,7,Millennial,Male,Mixed Race,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+5,4,7,7,5,5,6,4,Gen Z,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+5,4,5,6,6,7,3,2,Millennial,Female,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+5,5,4,4,4,4,4,1,Gen Z,Male,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+6,6,6,1,1,6,3,3,Gen X,Male,White,>50k & <100k,Moderately Conservative,Neutral,United States
+5,4,6,5,5,5,5,5,Gen X,Female,White,<50k,Quite Liberal,Quite Non-religious,United States
+3,2,5,3,2,4,2,1,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+1,1,6,2,1,1,5,1,Millennial,Male,White,>200k,Extremely Liberal,Extremely Non-religious,United States
+4,3,6,4,5,5,6,2,Boomer,Male,White,>100k & <200k,Moderately Conservative,Usually Non-religious,United States
+5,5,5,6,7,7,4,7,Millennial,Male,African American,>50k & <100k,Neutral,Extremely Non-religious,United States
+7,6,7,4,5,5,4,2,Millennial,Female,White,>50k & <100k,Extremely Conservative,Usually Non-religious,United States
+4,4,6,5,4,4,4,4,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+4,5,6,5,5,6,5,5,Millennial,Male,Asian,<50k,Quite Liberal,Neutral,United States
+5,5,6,4,4,3,2,1,Millennial,Male,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+6,5,7,6,7,5,6,5,Gen X,Male,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+1,1,6,5,4,7,4,4,Millennial,Female,African American,>100k & <200k,Quite Liberal,Extremely Religious,United States
+1,1,4,3,4,3,4,2,Gen Z,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+3,1,7,6,6,6,6,7,Millennial,Female,White,>100k & <200k,Extremely Conservative,Extremely Religious,United States
+7,4,7,6,6,7,5,4,Boomer,Female,White,<50k,Quite Conservative,Quite Religious,United States
+1,1,4,3,3,2,4,5,Millennial,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+4,4,6,1,5,3,4,1,Gen Z,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+5,5,7,6,6,6,6,6,Gen X,Female,Mixed Race,>50k & <100k,Quite Liberal,Moderately Religious,United States
+4,4,5,4,4,4,5,4,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+5,5,7,6,6,6,5,6,Millennial,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+5,4,1,2,5,6,6,4,Gen Z,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+1,1,6,4,6,6,4,5,Millennial,Female,Asian,>50k & <100k,Neutral,Neutral,United States
+7,6,6,3,5,5,6,3,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+4,4,7,4,4,4,5,4,Gen X,Female,White,>200k,Quite Liberal,Extremely Non-religious,United States
+4,4,6,5,5,5,4,4,Millennial,Male,Hispanic,<50k,Moderately Conservative,Quite Non-religious,United States
+2,2,7,3,3,7,7,7,Gen Z,Male,Hispanic,>50k & <100k,Quite Conservative,Moderately Religious,United States
+5,5,7,4,5,6,6,7,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+7,6,5,6,6,7,6,6,Millennial,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+1,1,1,4,3,5,1,1,Gen Z,Male,Asian,<50k,Moderately Conservative,Extremely Non-religious,United States
+1,1,5,3,3,3,3,4,Millennial,Female,White,>50k & <100k,Neutral,Extremely Religious,United States
+5,5,7,4,1,4,4,4,Millennial,Male,White,>100k & <200k,Extremely Conservative,Neutral,United States
+2,2,2,4,1,1,7,4,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,3,6,5,7,6,6,5,Gen X,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+5,5,7,4,1,3,4,3,Millennial,Female,White,>100k & <200k,Neutral,Neutral,United States
+4,4,5,3,5,3,4,5,Millennial,Female,Hispanic,<50k,Moderately Conservative,Extremely Religious,United States
+5,6,7,6,5,4,5,6,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Religious,United States
+5,5,4,4,4,4,3,2,Millennial,Male,White,>50k & <100k,Quite Liberal,Neutral,United States
+3,3,6,6,6,4,5,4,Boomer,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+2,1,4,4,4,4,4,4,Gen X,Male,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+2,2,4,4,4,4,5,1,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+7,7,7,7,7,7,4,6,Millennial,Male,African American,>200k,Extremely Liberal,Extremely Religious,United States
+6,5,6,4,4,4,6,6,Gen X,Male,Hispanic,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+1,1,5,3,2,3,4,4,Boomer,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+4,3,5,5,2,2,2,3,Gen Z,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+7,7,7,7,7,7,7,7,Gen Z,Male,African American,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+5,6,5,6,6,5,6,6,Gen X,Male,White,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+1,1,2,2,2,2,2,2,Gen X,Female,White,<50k,Moderately Conservative,Quite Non-religious,United States
+5,5,7,7,7,7,7,7,Boomer,Male,Hispanic,>100k & <200k,Quite Conservative,Extremely Religious,United States
+2,2,3,7,5,5,6,4,Millennial,Female,White,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+3,1,3,3,1,1,2,2,Gen Z,Female,White,<50k,Quite Conservative,Extremely Religious,United States
+5,2,7,6,5,5,4,7,Millennial,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+4,4,6,3,3,5,4,5,Millennial,Male,Hispanic,>100k & <200k,Quite Liberal,Quite Religious,United States
+1,1,1,1,1,1,1,1,Gen Z,Female,White,<50k,Neutral,Moderately Religious,United States
+5,5,5,4,4,4,4,5,Gen X,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+2,1,2,2,2,2,2,1,Millennial,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+2,2,5,5,2,2,2,2,Millennial,Female,White,>100k & <200k,Quite Conservative,Usually Non-religious,United States
+4,4,4,4,4,4,1,5,Millennial,Female,White,>50k & <100k,Neutral,Quite Religious,United States
+7,7,4,5,4,4,4,4,Millennial,Female,Asian,>50k & <100k,Neutral,Quite Non-religious,United States
+6,4,7,4,6,3,6,5,Boomer,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+5,6,5,5,6,6,4,3,Millennial,Female,African American,>50k & <100k,Neutral,Neutral,United States
+5,4,6,6,5,5,6,6,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+6,5,6,5,6,6,5,6,Gen X,Male,White,<50k,Moderately Conservative,Quite Non-religious,United States
+6,5,4,5,5,5,5,5,Gen X,Male,Hispanic,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+5,6,6,5,5,4,5,5,Gen Z,Female,White,<50k,Extremely Liberal,Quite Non-religious,United States
+5,5,6,6,5,5,6,6,Boomer,Male,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+6,5,6,5,6,5,6,5,Gen X,Female,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+6,6,6,6,6,6,6,6,Boomer,Male,White,<50k,Moderately Conservative,Usually Non-religious,United States
+1,1,5,5,4,5,5,2,Boomer,Female,African American,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+7,7,7,7,1,1,5,4,Millennial,Female,White,<50k,Extremely Conservative,Neutral,United States
+1,1,7,1,1,1,1,1,Boomer,Male,White,<50k,Quite Conservative,Extremely Non-religious,United States
+1,1,4,1,1,2,1,1,Gen X,Male,Other,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+5,5,2,6,6,6,6,1,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+6,6,5,4,4,4,4,4,Gen X,Male,White,>50k & <100k,Quite Conservative,Neutral,United States
+7,7,7,7,7,7,7,7,Millennial,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+6,6,6,6,6,6,6,1,Millennial,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+4,4,7,7,7,7,7,7,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+5,5,7,5,5,5,5,5,Millennial,Male,African American,>50k & <100k,Neutral,Neutral,United States
+5,5,5,5,5,5,5,5,Boomer,Female,Other,>50k & <100k,Quite Liberal,Quite Religious,United States
+4,4,6,5,5,5,4,5,Millennial,Male,White,>50k & <100k,Neutral,Extremely Religious,United States
+4,5,4,6,4,6,5,4,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+5,4,6,5,6,5,5,6,Gen X,Female,White,<50k,Moderately Conservative,Quite Non-religious,United States
+4,5,6,7,6,5,4,5,Gen X,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+6,7,6,7,6,7,6,7,Millennial,Male,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+4,5,5,4,5,6,5,6,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+5,5,2,3,2,5,2,3,Millennial,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+4,5,4,4,5,4,4,4,Millennial,Male,White,>100k & <200k,Quite Conservative,Quite Religious,United States
+5,4,6,4,3,4,5,5,Gen X,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+5,5,5,6,4,6,4,6,Millennial,Female,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+4,4,6,6,6,6,4,4,Boomer,Male,White,>50k & <100k,Quite Conservative,Usually Non-religious,United States
+6,6,6,5,3,6,6,5,Boomer,Male,White,>100k & <200k,Extremely Conservative,Moderately Religious,United States
+6,5,4,5,3,4,5,5,Gen Z,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+3,3,2,1,1,3,2,1,Millennial,Female,Asian,<50k,Neutral,Usually Non-religious,United States
+4,4,3,5,5,5,6,7,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,5,7,6,4,6,4,6,Gen X,Male,White,>100k & <200k,Quite Conservative,Moderately Religious,United States
+5,5,5,5,5,5,4,4,Millennial,Female,African American,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+3,3,3,3,3,3,5,1,Millennial,Male,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+7,7,7,7,7,7,7,7,Gen Z,Male,African American,>50k & <100k,Quite Conservative,Moderately Religious,United States
+1,1,7,4,4,4,4,4,Millennial,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+6,6,5,5,4,4,4,4,Gen X,Male,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+5,6,6,6,6,7,7,7,Millennial,Male,African American,<50k,Extremely Conservative,Extremely Religious,United States
+6,6,7,5,5,5,2,2,Boomer,Male,White,>50k & <100k,Neutral,Usually Non-religious,United States
+4,4,7,4,4,7,5,7,Millennial,Male,White,<50k,Neutral,Moderately Religious,United States
+5,4,4,5,2,2,6,1,Gen Z,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,4,7,6,5,6,5,7,Gen X,Female,White,>50k & <100k,Neutral,Moderately Religious,United States
+6,5,6,5,6,5,6,5,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Neutral,United States
+5,5,6,6,6,6,6,6,Boomer,Male,White,<50k,Quite Conservative,Moderately Religious,United States
+5,4,6,5,6,6,4,2,Millennial,Female,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+6,5,6,4,5,5,6,4,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+6,5,4,5,4,5,5,5,Gen Z,Male,Asian,>200k,Quite Conservative,Moderately Religious,United States
+6,4,2,2,2,5,6,4,Boomer,Female,White,>50k & <100k,Moderately Conservative,Neutral,United States
+1,1,4,4,4,4,4,1,Gen X,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+5,4,5,5,2,2,2,4,Millennial,Female,Asian,>50k & <100k,Quite Liberal,Quite Religious,United States
+6,6,5,3,4,4,1,1,Gen X,Female,African American,>100k & <200k,Extremely Liberal,Quite Non-religious,United States
+2,2,6,4,4,4,5,2,Boomer,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+5,5,4,4,4,4,4,4,Millennial,Male,White,<50k,Quite Conservative,Neutral,United States
+3,3,6,6,5,6,4,3,Gen X,Male,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+1,1,7,4,5,5,7,1,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+6,6,7,6,7,6,4,6,Millennial,Male,White,>50k & <100k,Extremely Liberal,Moderately Religious,United States
+5,5,6,5,5,5,4,1,Boomer,Female,White,<50k,Neutral,Extremely Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Male,White,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+5,5,5,3,4,4,3,5,Boomer,Female,Asian,<50k,Neutral,Moderately Religious,United States
+6,6,6,6,4,4,4,4,Boomer,Female,White,<50k,Quite Liberal,Moderately Religious,United States
+4,4,7,5,3,3,5,7,Millennial,Female,White,<50k,Moderately Conservative,Extremely Religious,United States
+5,2,4,3,4,4,4,2,Millennial,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+2,2,4,5,6,5,5,7,Millennial,Female,Asian,<50k,Extremely Liberal,Quite Religious,United States
+1,1,1,3,1,1,3,1,Gen Z,Female,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+3,2,7,4,4,4,5,4,Millennial,Male,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+7,7,7,5,6,7,1,1,Gen X,Female,White,<50k,Neutral,Extremely Religious,United States
+1,1,7,4,3,3,5,3,Gen X,Female,White,<50k,Extremely Liberal,Quite Religious,United States
+4,2,7,6,5,7,6,1,Boomer,Male,White,>50k & <100k,Neutral,Usually Non-religious,United States
+2,2,6,2,3,3,5,2,Gen X,Female,White,<50k,Extremely Liberal,Neutral,United States
+1,1,5,2,1,1,6,3,Gen X,0,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+1,1,4,4,2,2,4,1,Boomer,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Male,Asian,<50k,Moderately Conservative,Extremely Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Male,Hispanic,<50k,Neutral,Moderately Religious,United States
+2,4,5,3,6,6,4,2,Millennial,Female,African American,>50k & <100k,Extremely Liberal,Neutral,United States
+7,6,5,4,5,6,5,4,Gen X,Male,Asian,>100k & <200k,Extremely Liberal,Neutral,United States
+4,2,4,4,4,4,4,4,Gen Z,Male,White,<50k,Quite Liberal,Extremely Non-religious,United States
+3,2,7,4,2,3,3,1,Gen X,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+7,7,7,7,6,6,2,7,Millennial,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+6,4,7,4,2,2,6,1,Millennial,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+4,4,4,5,5,4,5,2,Millennial,Male,White,>50k & <100k,Extremely Liberal,Quite Religious,United States
+2,3,1,1,6,7,2,1,Millennial,Female,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+1,1,7,7,7,7,7,7,Millennial,Male,White,>100k & <200k,Extremely Conservative,Extremely Religious,United States
+3,5,5,4,3,3,4,1,Gen Z,Male,White,<50k,Quite Conservative,Extremely Non-religious,United States
+7,4,1,3,7,7,1,4,Millennial,Female,White,<50k,Neutral,Moderately Religious,United States
+2,2,4,2,2,1,4,1,Gen Z,Male,White,<50k,Extremely Conservative,Extremely Religious,United States
+6,6,4,5,5,6,6,6,Gen X,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+6,6,7,7,6,6,6,4,Boomer,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+6,5,4,6,6,5,4,5,Millennial,Female,White,<50k,Moderately Conservative,Quite Religious,United States
+6,5,5,6,6,5,5,4,Millennial,Female,White,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+6,5,7,7,5,5,3,3,Millennial,Female,White,>200k,Quite Conservative,Usually Non-religious,United States
+4,3,4,4,4,4,3,1,Millennial,Female,White,<50k,Neutral,Usually Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Female,White,<50k,Quite Liberal,Quite Non-religious,United States
+3,4,5,5,6,6,7,6,Gen X,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+7,7,4,6,2,2,7,3,Millennial,Female,White,<50k,Extremely Liberal,Neutral,United States
+2,2,6,5,5,4,4,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+4,4,4,4,4,6,1,1,Millennial,Female,Mixed Race,>100k & <200k,Moderately Conservative,Neutral,United States
+7,7,5,6,3,3,6,5,Millennial,Male,Hispanic,<50k,Extremely Conservative,Moderately Religious,United States
+3,3,2,2,2,2,1,1,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+2,2,5,6,1,1,4,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+4,4,5,5,3,4,4,4,Gen Z,Female,White,>50k & <100k,Neutral,Usually Non-religious,United States
+7,6,4,7,6,6,7,5,Boomer,Male,African American,<50k,Moderately Conservative,Quite Religious,United States
+3,3,4,5,4,4,3,6,Gen X,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+5,6,6,4,3,4,5,4,Millennial,Female,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+5,5,6,6,6,5,5,5,Millennial,Female,White,>200k,Quite Liberal,Quite Religious,United States
+7,7,1,4,4,4,4,4,Millennial,Female,African American,<50k,Neutral,Extremely Religious,United States
+4,4,5,4,4,5,4,4,Gen Z,Null,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+7,6,7,5,6,5,5,5,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+7,7,7,6,4,3,1,1,Gen Z,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+2,3,7,5,4,4,3,1,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+6,5,4,6,6,4,6,1,Gen Z,Male,African American,<50k,Moderately Conservative,Extremely Non-religious,United States
+7,7,7,7,7,4,7,4,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+7,7,3,4,2,2,2,2,Gen Z,Male,Hispanic,>100k & <200k,Quite Liberal,Neutral,United States
+4,6,6,5,6,5,4,5,Millennial,Male,African American,>50k & <100k,Quite Liberal,Moderately Religious,United States
+5,1,7,6,5,2,4,1,Millennial,Female,Hispanic,<50k,Extremely Liberal,Extremely Non-religious,United States
+6,6,7,6,6,6,6,6,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+4,4,6,4,4,4,4,4,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+1,1,7,5,3,1,4,2,Gen Z,Male,White,>50k & <100k,Extremely Liberal,Usually Non-religious,United States
+4,4,5,4,5,5,5,1,Millennial,Male,African American,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+2,2,5,5,5,5,5,1,Gen Z,Female,Asian,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+3,1,6,4,4,4,6,2,Gen Z,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+5,5,6,4,4,4,4,3,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+6,4,7,6,2,3,4,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+4,4,6,5,5,5,5,7,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+7,1,6,7,7,7,1,1,Gen Z,Female,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+5,4,7,5,5,5,6,4,Gen Z,Female,White,>100k & <200k,Extremely Liberal,Quite Non-religious,United States
+5,5,6,4,2,4,4,1,Gen Z,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+7,7,7,7,7,7,7,7,Millennial,Female,African American,>50k & <100k,Moderately Conservative,Quite Religious,United States
+7,6,7,7,7,6,6,5,Gen Z,Female,White,>50k & <100k,Extremely Conservative,Neutral,United States
+5,4,3,4,4,5,5,5,Gen Z,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+6,6,6,6,6,6,6,6,Gen Z,Male,African American,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+7,7,6,6,4,6,2,1,Gen Z,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+6,4,5,4,4,4,4,4,Gen Z,Male,Mixed Race,<50k,Quite Liberal,Moderately Religious,United States
+6,4,6,4,5,5,4,2,Gen Z,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+5,5,3,4,3,2,1,2,Gen Z,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+5,4,4,4,3,5,4,4,Gen Z,Female,Hispanic,<50k,Neutral,Neutral,United States
+7,7,7,1,5,5,3,4,Millennial,Female,White,<50k,Neutral,Moderately Religious,United States
+3,4,5,4,1,5,3,4,Millennial,Female,Mixed Race,>50k & <100k,Neutral,Quite Religious,United States
+4,4,6,5,5,6,6,6,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States

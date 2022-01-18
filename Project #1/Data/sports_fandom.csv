@@ -1,0 +1,362 @@
+Q2,Q3_NPS_GROUP,Q3,Q4_NPS_GROUP,Q4,Q5_1,Q5_2,Q5_3,Q5_4,Q5_5,Q5_6,Q5_7,Q5_8,generation,gender,race,SES,political_spectrum,religious_spectrum,nationality
+phoenix suns,1,4,1,6,3,2,3,4,5,4,4,4,Millennial,Male,White,>50k & <100k,Neutral,Neutral,United States
+dallas cowboys,1,6,1,1,6,6,1,1,6,5,1,1,Gen X,Male,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+green bay packers,3,10,3,9,7,1,5,3,2,1,2,2,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+new orleans saints,2,7,1,6,7,7,3,2,5,7,4,6,Millennial,Male,African American,<50k,Neutral,Extremely Non-religious,United States
+new orleans saints,3,9,3,10,7,7,5,4,3,7,2,1,Millennial,Female,White,>100k & <200k,Quite Conservative,Moderately Religious,United States
+new england patriots,3,10,3,10,7,7,3,3,1,1,4,4,Millennial,Male,Asian,<50k,Moderately Conservative,Usually Non-religious,United States
+new york yankees,3,10,3,10,7,7,7,4,1,1,7,7,Gen Z,Female,Hispanic,<50k,Extremely Liberal,Extremely Non-religious,United States
+philadelphia eagles,3,10,3,10,7,4,1,1,1,1,1,1,Millennial,Female,African American,>50k & <100k,Neutral,Neutral,United States
+new york yankees,3,9,3,9,7,6,7,6,6,4,4,5,Boomer,Male,White,>100k & <200k,Moderately Conservative,Quite Non-religious,United States
+aggies,1,5,2,7,5,4,4,5,4,1,4,4,Millennial,Female,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+st louis blues,2,8,2,8,6,7,4,6,4,2,1,1,Millennial,Female,White,>100k & <200k,Quite Liberal,Usually Non-religious,United States
+nashville predators,3,9,1,5,6,5,6,6,2,1,5,7,Gen X,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+atlanta braves,3,10,3,10,5,5,7,3,3,4,1,1,Gen X,Male,White,<50k,Neutral,Extremely Religious,United States
+houston astros,3,10,3,10,5,6,7,3,1,1,1,7,Millennial,Female,White,<50k,Extremely Liberal,Extremely Religious,United States
+dallas cowboys,1,3,1,3,3,2,2,2,1,1,1,3,Boomer,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+las vegas raiders,1,3,1,1,3,1,2,1,1,1,1,1,Gen X,Null,Mixed Race,>50k & <100k,Quite Conservative,Neutral,United States
+cricket,3,9,3,10,7,6,6,6,7,6,6,7,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+hendrick motor sports,1,0,1,0,1,1,1,1,1,1,2,1,Boomer,Female,White,>50k & <100k,Extremely Conservative,Neutral,United States
+chicago cubs,3,10,3,10,7,3,6,1,1,1,4,4,Millennial,Male,White,>100k & <200k,Moderately Conservative,Usually Non-religious,United States
+cleveland cavaliers,2,8,2,7,2,7,5,7,4,1,2,2,Millennial,Female,Mixed Race,>200k,Extremely Liberal,Extremely Non-religious,United States
+fc barcelona,2,8,1,6,5,6,4,5,4,5,4,5,Millennial,Male,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+washington wizards,1,3,1,4,1,3,1,1,1,1,1,2,Millennial,Male,Asian,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+pittsburgh steelers,3,10,1,3,3,1,1,1,1,7,1,7,Millennial,Male,White,>50k & <100k,Neutral,Neutral,United States
+mlb,2,8,1,6,4,6,5,3,4,7,6,5,Gen Z,Female,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+cincinnati bengals,3,10,3,9,7,5,4,3,3,5,4,4,Gen Z,Female,Mixed Race,>50k & <100k,Moderately Conservative,Extremely Religious,United States
+boxing,1,6,1,6,1,1,1,1,2,3,1,6,Gen Z,Male,Hispanic,<50k,Extremely Liberal,Extremely Religious,United States
+new york yankees,3,10,3,10,4,1,7,1,4,1,7,1,Boomer,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+manchester united,3,10,3,9,7,6,5,6,7,4,6,6,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+detroit pistons,3,10,3,10,7,7,7,4,1,1,4,7,Millennial,Male,White,>100k & <200k,Quite Conservative,Extremely Non-religious,United States
+new york yankees,2,8,3,9,5,3,7,2,5,5,6,6,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+cleveland browns,3,10,2,8,7,5,6,6,2,2,4,5,Gen X,Male,White,>200k,Moderately Conservative,Neutral,United States
+texas football,2,8,3,10,7,3,2,3,6,3,3,4,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+georgia bulldogs,3,10,3,9,7,1,6,5,2,1,1,6,Gen X,Female,White,>50k & <100k,Quite Conservative,Quite Religious,United States
+seattle seahawks,1,5,2,8,3,5,6,1,5,1,1,5,Boomer,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+new york jets,2,7,1,5,6,5,6,3,5,1,4,4,Boomer,Female,White,>100k & <200k,Neutral,Moderately Religious,United States
+cleveland indians,1,5,1,2,1,1,6,1,2,2,1,1,Millennial,Female,Asian,>100k & <200k,Neutral,Usually Non-religious,United States
+cleveland browns,3,9,3,9,7,5,5,1,1,1,1,1,Boomer,Female,White,<50k,Moderately Conservative,Moderately Religious,United States
+chicago bears,2,7,2,7,3,2,2,3,3,4,4,3,Millennial,Male,African American,<50k,Neutral,Extremely Non-religious,United States
+charlotte hornets,3,10,2,8,7,7,7,3,1,5,3,5,Millennial,Male,White,<50k,Quite Liberal,Quite Religious,United States
+denver broncos,2,8,2,8,6,6,2,2,1,1,2,4,Millennial,Female,White,>100k & <200k,Extremely Conservative,Quite Non-religious,United States
+new york islanders,2,7,1,6,6,2,5,7,1,2,4,4,Millennial,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+florida state seminoles,2,8,1,3,5,4,1,6,4,7,1,1,Millennial,Male,White,<50k,Extremely Conservative,Usually Non-religious,United States
+minnesota twins,2,8,2,8,6,6,7,3,1,1,1,1,Boomer,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+chicago bulls,2,8,2,7,5,4,4,2,2,6,2,2,Gen Z,Male,Hispanic,<50k,Neutral,Neutral,United States
+houston astros,2,8,3,9,4,5,6,4,2,2,4,2,Millennial,Male,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+san antonio spurs,2,8,2,7,4,6,1,1,3,1,1,7,Gen X,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+baltimore ravens,1,6,1,3,7,7,4,2,4,2,6,6,Millennial,Male,Asian,>100k & <200k,Neutral,Moderately Religious,United States
+green bay packers,1,4,1,0,5,1,1,2,2,2,1,3,Gen X,Male,Mixed Race,<50k,Neutral,Extremely Non-religious,United States
+los angeles lakers,3,9,2,8,6,5,6,5,4,5,6,5,Millennial,Male,White,<50k,Quite Liberal,Usually Non-religious,United States
+none,1,0,1,0,1,1,1,1,1,1,1,1,Millennial,Male,Asian,<50k,Neutral,Extremely Non-religious,United States
+cleveland cavaliers,2,8,1,6,6,7,7,4,3,1,2,3,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+los angeles lakers,1,6,1,5,2,5,4,3,3,3,3,4,Boomer,Female,Asian,<50k,Neutral,Moderately Religious,Asia/Oceania
+seattle seahawks,3,9,3,9,7,5,2,1,5,1,1,1,Millennial,Male,Asian,>100k & <200k,Moderately Conservative,Extremely Religious,United States
+pittsburgh steelers,1,4,1,2,5,1,1,2,1,1,1,2,Gen X,Female,Mixed Race,<50k,Extremely Liberal,Extremely Non-religious,United States
+new england patriots,2,8,1,6,6,2,4,3,1,1,1,1,Millennial,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+green bay packers,3,9,2,8,7,2,1,5,2,1,1,4,Millennial,Male,White,>50k & <100k,Quite Conservative,Usually Non-religious,United States
+philadelphia flyers,1,5,1,4,1,1,1,5,1,1,1,1,Gen X,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+new york yankees,1,5,1,3,4,3,5,4,1,1,1,5,Boomer,Female,White,<50k,Extremely Liberal,Neutral,United States
+new orleans saints,2,8,1,6,4,4,4,2,4,1,6,7,Boomer,Female,African American,<50k,Quite Conservative,Extremely Religious,United States
+milwaukee bucks,3,10,3,10,5,7,5,4,3,7,4,4,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+new york yankees,3,10,3,10,1,7,7,1,7,7,1,7,Millennial,Female,White,<50k,Extremely Liberal,Neutral,United States
+ou sooners,2,7,2,7,6,3,2,2,2,1,5,6,Boomer,Male,White,<50k,Moderately Conservative,Moderately Religious,United States
+manchester united,3,10,3,10,7,7,6,4,7,4,4,5,Gen X,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+los angeles kings,1,2,1,0,1,1,1,2,2,1,1,1,Millennial,Female,White,<50k,Extremely Conservative,Extremely Non-religious,United States
+cricket,2,8,1,4,6,3,4,5,4,5,5,4,Boomer,Male,White,>50k & <100k,Extremely Conservative,Neutral,United States
+los angeles lakers,1,6,2,8,7,7,1,1,1,4,1,1,Gen Z,Male,White,>50k & <100k,Extremely Conservative,Extremely Non-religious,United States
+badgers,1,5,1,3,6,2,2,1,1,1,1,1,Millennial,Male,White,>100k & <200k,Neutral,Moderately Religious,United States
+los angeles lakers,1,6,1,5,2,5,1,1,1,1,1,1,Millennial,Female,African American,<50k,Neutral,Moderately Religious,United States
+houston texans,3,10,3,10,7,7,4,1,1,1,1,1,Millennial,Female,Hispanic,>50k & <100k,Quite Conservative,Quite Religious,United States
+cricket,3,10,3,10,7,6,7,6,7,6,7,7,Gen X,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+chicago cubs,3,10,2,8,5,3,7,7,3,1,2,2,Gen Z,Male,White,<50k,Neutral,Extremely Non-religious,United States
+juventus fc,2,8,3,9,7,5,4,6,3,5,5,5,Millennial,Female,White,<50k,Extremely Liberal,Extremely Religious,United States
+austrlia,3,10,2,8,7,7,6,7,7,5,7,7,Gen X,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+michigan wolverines,3,9,3,9,6,6,5,5,5,6,2,5,Millennial,Male,White,>50k & <100k,Moderately Conservative,Neutral,United States
+buffalo bills,1,3,1,3,4,5,1,3,2,2,2,5,Gen X,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+dallas cowboys,3,10,1,5,7,4,5,1,1,1,1,1,Gen X,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+golden state warriors,3,9,1,4,6,5,7,2,1,1,5,6,Boomer,Male,White,>200k,Moderately Conservative,Extremely Non-religious,United States
+new england patriots,1,3,1,0,3,1,2,2,2,1,1,2,Gen X,Female,White,>100k & <200k,Quite Liberal,Quite Non-religious,United States
+dallas cowboys,2,8,3,9,6,1,1,1,1,1,1,7,Boomer,Female,African American,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+new england patriots,1,4,1,1,4,3,3,2,3,1,3,3,Millennial,Male,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+new orleans saints,1,6,1,6,6,2,4,2,2,6,1,1,Millennial,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+new york yankees,2,7,1,5,3,6,2,2,3,4,5,3,Gen Z,Female,White,>50k & <100k,Neutral,Neutral,United States
+boston celtics,2,8,3,9,2,7,4,5,2,7,2,2,Gen Z,Male,Asian,>50k & <100k,Moderately Conservative,Neutral,United States
+san antonio spurs,2,7,2,7,4,6,1,2,2,1,1,4,Boomer,Male,Mixed Race,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+indiana pacers,3,9,2,8,5,7,4,1,1,1,1,1,Gen X,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+cleveland browns,1,6,1,6,5,2,5,2,2,2,2,6,Boomer,Female,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+golden state warriors,2,7,1,6,1,6,2,2,4,2,6,5,Millennial,Female,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+pittsburgh penguins,2,8,2,8,6,3,5,7,4,1,3,5,Gen X,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+new york yankees,1,6,1,4,2,2,6,2,5,2,1,1,Gen Z,Female,Mixed Race,<50k,Extremely Liberal,Extremely Non-religious,United States
+new york yankees,3,10,1,2,7,5,7,7,3,1,2,3,Boomer,Male,White,<50k,Neutral,Extremely Religious,United States
+chicago blackhawks,3,10,2,7,7,5,5,7,3,1,4,4,Gen X,Male,White,<50k,Neutral,Moderately Religious,United States
+seattle seahawks,1,1,1,0,3,1,2,4,1,1,1,1,Gen X,Male,White,>50k & <100k,Quite Liberal,Neutral,United States
+kansas city chiefs,3,10,3,10,7,7,7,7,6,6,4,7,Boomer,Male,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+green bay packers,3,9,3,9,7,4,6,4,2,2,2,2,Silent Gen,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+las vegas raiders,1,6,1,1,6,1,1,1,1,1,1,1,Gen X,Male,Asian,>100k & <200k,Quite Conservative,Quite Religious,United States
+new york yankees,3,10,3,10,2,2,7,1,7,4,6,4,Boomer,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+chicago white sox,2,7,1,6,6,4,6,5,4,6,5,5,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+green bay packers,2,7,2,7,7,4,4,7,6,7,7,4,Gen Z,Female,White,<50k,Neutral,Extremely Non-religious,United States
+pittsburgh penguins,1,6,1,5,5,1,1,5,1,1,1,1,Gen X,Female,White,>100k & <200k,Quite Conservative,Extremely Non-religious,United States
+texas rangers,3,10,2,8,7,5,7,6,1,2,5,5,Millennial,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+seattle seahawks,2,7,2,8,4,3,1,2,2,2,1,6,Millennial,Female,Asian,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+pittsburgh steelers,1,0,1,1,2,1,1,1,1,1,2,2,Gen X,Female,White,<50k,Neutral,Extremely Non-religious,United States
+st louis cardinals,2,7,1,4,3,2,5,1,1,1,1,5,Millennial,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+los angeles lakers,1,2,1,1,2,2,2,2,4,1,1,1,Gen Z,Female,Asian,>50k & <100k,Quite Conservative,Extremely Non-religious,United States
+boston celtics,2,7,2,7,4,5,4,6,3,6,7,6,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+chicago cubs,3,10,2,7,7,7,7,4,3,2,2,4,Gen X,Male,White,>200k,Quite Conservative,Quite Religious,United States
+green bay packers,3,9,3,9,7,4,4,1,1,1,1,1,Boomer,Male,White,<50k,Moderately Conservative,Usually Non-religious,United States
+los angeles lakers,1,5,2,8,5,7,4,5,3,5,3,2,Millennial,Male,White,>100k & <200k,Moderately Conservative,Neutral,United States
+pittsburgh steelers,1,6,1,6,5,3,1,1,1,1,1,1,Gen Z,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+new orleans saints,2,8,3,9,7,1,7,1,1,1,7,5,Millennial,Female,White,<50k,Neutral,Extremely Non-religious,United States
+kentucky wildcats,3,10,1,6,5,7,1,1,1,1,1,4,Gen X,Female,White,>50k & <100k,Quite Conservative,Quite Religious,United States
+green bay packers,1,0,1,2,5,1,5,1,1,6,1,1,Millennial,Male,Asian,>50k & <100k,Quite Conservative,Extremely Non-religious,United States
+tampa bay rays,1,1,1,5,3,3,3,2,2,1,2,2,Boomer,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+boston celtics,3,9,2,7,6,6,3,1,2,1,1,1,Millennial,Female,White,>100k & <200k,Moderately Conservative,Moderately Religious,United States
+chicago bulls,1,2,1,3,2,3,1,2,3,2,2,3,Millennial,Male,Asian,>100k & <200k,Neutral,Extremely Non-religious,United States
+new york yankees,1,5,1,5,1,1,5,1,1,5,1,1,Millennial,Male,Hispanic,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+new york yankees,1,1,1,1,1,1,1,3,1,1,1,1,Millennial,Female,Mixed Race,<50k,Moderately Conservative,Extremely Non-religious,United States
+cleveland indians,1,4,1,5,5,2,7,1,1,1,1,4,Boomer,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+new york jets,3,9,1,6,7,4,5,6,6,2,4,4,Millennial,Male,White,>100k & <200k,Quite Conservative,Quite Non-religious,United States
+chicago bears,3,10,3,9,7,5,3,1,1,4,1,1,Millennial,Male,African American,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+boston bruins,2,7,1,4,5,5,4,5,2,1,4,5,Gen X,Male,White,<50k,Extremely Conservative,Extremely Religious,United States
+kansas city chiefs,2,7,1,5,6,4,4,4,4,1,4,4,Boomer,Male,White,>100k & <200k,Quite Conservative,Quite Religious,United States
+new england patriots,3,10,3,10,7,7,7,1,1,1,1,1,Millennial,Female,Asian,>100k & <200k,Moderately Conservative,Neutral,United States
+boston bruins,3,9,1,6,4,1,2,7,1,1,1,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+san francisco 49ers,2,7,1,5,5,4,2,2,1,6,4,5,Millennial,Male,White,<50k,Quite Liberal,Quite Religious,United States
+detroit tigers,1,1,1,1,1,1,1,1,5,1,1,1,Gen X,Male,Hispanic,<50k,Extremely Conservative,Neutral,United States
+chicago cubs,3,10,3,10,1,6,7,3,1,1,1,1,Silent Gen,Female,White,<50k,Extremely Conservative,Quite Religious,United States
+philadelphia phillies,1,6,1,6,4,3,6,2,2,2,2,3,Boomer,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+las vegas raiders,3,9,2,8,7,3,1,1,1,1,1,1,Gen X,Female,Hispanic,<50k,Neutral,Quite Religious,United States
+new york yankees,2,8,2,8,6,6,6,6,6,6,5,5,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+houston astros,3,9,2,8,2,6,7,3,3,1,3,3,Gen X,Male,White,<50k,Moderately Conservative,Moderately Religious,United States
+buffalo bills,1,5,1,5,5,2,2,4,5,1,2,5,Boomer,Male,White,>50k & <100k,Neutral,Moderately Religious,United States
+los angeles lakers,2,8,2,8,6,6,5,5,6,6,5,5,Millennial,Male,Asian,>100k & <200k,Quite Conservative,Neutral,United States
+baltimore ravens,2,8,2,7,6,4,5,4,3,4,4,4,Millennial,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+new england patriots,1,4,1,3,5,2,5,2,1,3,2,3,Millennial,Male,White,>100k & <200k,Extremely Conservative,Usually Non-religious,United States
+i don't watch sports,1,0,1,0,1,1,1,1,1,1,1,1,Millennial,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+cleveland cavaliers,2,7,2,8,5,4,3,5,3,4,5,6,Gen Z,Male,White,>100k & <200k,Extremely Liberal,Usually Non-religious,United States
+los angeles lakers,1,1,1,1,1,2,2,1,1,1,1,1,Gen X,Female,Other,<50k,Extremely Conservative,Extremely Religious,Africa
+miami heat,3,10,3,10,6,7,1,1,1,1,1,1,Gen X,Male,White,>50k & <100k,Extremely Liberal,Moderately Religious,United States
+chicago blackhawks,3,9,3,10,6,1,4,7,5,1,1,6,Gen Z,Female,White,>200k,Extremely Liberal,Extremely Non-religious,United States
+detroit lions,3,9,1,6,7,6,6,2,5,1,3,2,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Religious,United States
+chicago bulls,2,7,1,5,6,7,4,4,1,2,2,2,Millennial,Male,Other,>50k & <100k,Extremely Conservative,Extremely Religious,Latin America
+texas rangers,3,10,3,10,3,3,7,3,3,1,1,1,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+villanova wildcats,3,10,2,7,4,7,3,1,1,1,1,4,Millennial,Male,White,>50k & <100k,Neutral,Quite Religious,United States
+boston red sox,2,7,2,7,6,5,6,3,3,1,2,3,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+oklahoma state cowboys,1,2,1,1,3,3,2,1,2,1,1,1,Boomer,Male,White,<50k,Quite Conservative,Usually Non-religious,United States
+new york mets,2,8,3,10,5,6,4,4,4,4,6,6,Gen Z,Female,African American,>200k,Moderately Conservative,Extremely Religious,United States
+arkansas razorbacks,2,7,2,7,6,2,1,1,1,1,1,5,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+reds,2,7,1,5,1,1,6,1,1,1,1,4,Millennial,Female,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+new york jets,2,8,2,7,7,4,5,5,5,1,1,6,Gen X,Male,White,>200k,Extremely Conservative,Extremely Religious,United States
+philadelphia eagles,2,8,2,8,7,5,1,1,1,1,1,1,Millennial,Female,Asian,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+chicago bulls,1,4,1,5,1,1,1,1,4,1,1,4,Gen Z,Female,African American,<50k,Extremely Liberal,Moderately Religious,United States
+detroit lions,2,7,1,5,6,2,3,4,4,2,2,2,Millennial,Female,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+baltimore ravens,1,5,1,5,7,6,6,6,5,3,4,4,Millennial,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+new jersey devils,2,7,2,7,5,5,6,7,2,2,1,4,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Religious,United States
+toronto maple leafs,1,4,1,3,1,2,1,6,2,1,1,1,Millennial,Female,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+padres,1,2,1,2,4,1,4,1,4,1,2,2,Boomer,Male,White,<50k,Neutral,Quite Religious,United States
+pittsburgh penguins,1,1,1,0,1,3,1,3,1,1,1,1,Millennial,Male,Mixed Race,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+seattle seahawks,1,6,1,6,5,5,4,3,2,5,2,2,Gen Z,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+chicago bulls,1,6,1,3,1,6,1,4,3,1,1,1,Millennial,Female,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+dallas mavericks,2,8,2,8,6,7,4,3,5,6,1,6,Gen Z,Male,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+ball,3,9,3,9,6,6,4,6,6,6,6,6,Gen X,Male,White,>50k & <100k,Moderately Conservative,Neutral,United States
+dolfins,3,9,3,9,6,1,3,4,1,1,1,4,Gen X,Female,White,<50k,Quite Liberal,Quite Non-religious,United States
+green bay packers,3,10,3,10,7,7,6,4,4,1,3,7,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+new york yankees,3,9,1,6,2,4,7,5,1,1,1,5,Millennial,Male,White,>200k,Extremely Liberal,Extremely Non-religious,United States
+tampa bay buccaneers,1,6,1,2,4,4,4,2,2,2,5,5,Boomer,Male,White,>100k & <200k,Moderately Conservative,Usually Non-religious,United States
+dallas mavericks,2,7,2,7,6,6,4,1,1,4,1,1,Millennial,Male,African American,>50k & <100k,Neutral,Extremely Non-religious,United States
+pittsburgh steelers,2,7,1,6,7,5,5,5,1,1,3,3,Millennial,Female,White,>50k & <100k,Extremely Conservative,Usually Non-religious,United States
+los angeles kings,3,9,1,3,7,3,7,7,2,2,6,6,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+philadelphia eagles,2,7,1,5,7,5,5,4,3,6,5,6,Millennial,Male,Asian,<50k,Quite Liberal,Neutral,United States
+atlanta braves,3,9,2,7,4,3,7,5,5,4,4,4,Millennial,Male,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+manchester united,2,8,3,9,7,5,4,5,7,6,5,4,Gen X,Male,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+new england patriots,2,7,3,9,6,5,1,1,2,1,1,4,Millennial,Female,African American,>100k & <200k,Quite Liberal,Extremely Religious,United States
+brewers,1,1,1,1,1,1,2,1,1,2,1,1,Gen Z,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+pittsburgh steelers,3,9,2,8,6,4,4,3,3,1,1,1,Millennial,Female,White,>100k & <200k,Extremely Conservative,Extremely Religious,United States
+kansas city chiefs,3,9,3,9,7,3,6,1,1,1,1,1,Boomer,Female,White,<50k,Quite Conservative,Quite Religious,United States
+kansas city chiefs,1,0,1,2,1,1,2,1,1,1,1,2,Millennial,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+new york yankees,2,7,1,4,1,4,6,1,2,7,4,1,Gen Z,Female,White,<50k,Quite Liberal,Extremely Non-religious,United States
+new york yankees,3,9,3,9,7,5,5,2,7,5,5,5,Gen X,Female,Mixed Race,>50k & <100k,Quite Liberal,Moderately Religious,United States
+detroit red wings,1,5,1,2,2,1,1,5,1,1,1,1,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+chicago cubs,2,8,2,7,5,6,7,1,1,1,1,1,Millennial,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+dallas cowboys,3,10,2,7,7,7,2,1,1,1,1,1,Gen Z,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+philadelphia eagles,2,7,1,3,6,4,2,6,6,1,1,7,Millennial,Female,Asian,>50k & <100k,Neutral,Neutral,United States
+atlanta braves,3,10,3,10,5,4,7,5,3,5,1,1,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+phoenix suns,1,2,1,2,1,4,1,2,2,1,1,1,Gen X,Female,White,>200k,Quite Liberal,Extremely Non-religious,United States
+san francisco 49ers,1,3,1,3,7,5,4,3,2,3,2,3,Millennial,Male,Hispanic,<50k,Moderately Conservative,Quite Non-religious,United States
+las vegas raiders,3,10,3,10,7,6,4,4,4,3,4,6,Gen Z,Male,Hispanic,>50k & <100k,Quite Conservative,Moderately Religious,United States
+pittsburgh penguins,1,6,3,9,2,1,6,7,5,2,5,5,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+softball,3,9,3,10,7,6,6,5,6,6,7,5,Millennial,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+brooklyn nets,2,8,3,9,4,7,1,1,7,3,3,3,Gen Z,Male,Asian,<50k,Moderately Conservative,Extremely Non-religious,United States
+none,1,0,1,0,1,1,1,1,1,1,1,1,Millennial,Female,White,>50k & <100k,Neutral,Extremely Religious,United States
+philadelphia eagles,2,8,2,7,4,6,5,5,6,5,4,4,Millennial,Male,White,>100k & <200k,Extremely Conservative,Neutral,United States
+chicago bears,1,5,1,3,6,5,3,1,4,1,1,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+chicago cubs,2,8,1,1,4,3,5,2,1,1,1,6,Gen X,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+washington nationals,1,5,1,2,6,5,6,5,5,3,3,3,Millennial,Female,White,>100k & <200k,Neutral,Neutral,United States
+houston astros,1,3,1,5,2,3,4,1,1,1,2,3,Millennial,Female,Hispanic,<50k,Moderately Conservative,Extremely Religious,United States
+new york yankees,2,8,3,9,4,5,6,4,5,6,5,6,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Religious,United States
+baltimore ravens,2,8,2,8,7,5,1,1,1,1,1,1,Millennial,Male,White,>50k & <100k,Quite Liberal,Neutral,United States
+unc tarheels men's basketball,2,8,1,6,6,5,5,1,1,1,2,3,Boomer,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+pittsburgh steelers,1,1,1,0,2,1,1,1,1,1,1,1,Gen X,Male,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+columbus clippers,1,3,1,1,4,3,5,2,2,1,1,2,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+chelsea,3,10,2,7,5,4,3,2,7,6,4,3,Millennial,Male,African American,>200k,Extremely Liberal,Extremely Religious,United States
+atletico de madrid,3,9,2,8,3,7,1,3,6,3,5,5,Gen X,Male,Hispanic,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+los angels dodgers,1,2,1,2,1,2,3,1,1,1,1,2,Boomer,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+ndsu bison,2,8,1,6,5,1,1,3,2,5,4,4,Gen Z,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+colts,3,10,3,10,7,7,1,1,1,7,1,1,Gen Z,Male,African American,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+reds,2,7,2,7,5,5,5,6,6,6,5,5,Gen X,Male,White,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+tennessee titans,2,7,1,2,5,1,5,1,1,1,3,3,Gen X,Female,White,<50k,Moderately Conservative,Quite Non-religious,United States
+houston texans,3,10,1,5,7,6,7,5,1,1,4,4,Boomer,Male,Hispanic,>100k & <200k,Quite Conservative,Extremely Religious,United States
+buffalo bills,1,4,1,0,3,1,1,2,5,5,2,1,Millennial,Female,White,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+virginia tech hokies,1,5,1,2,3,1,2,3,1,1,2,2,Gen Z,Female,White,<50k,Quite Conservative,Extremely Religious,United States
+philadelphia phillies,1,4,1,0,3,1,4,1,1,1,1,1,Millennial,Female,White,>50k & <100k,Quite Conservative,Extremely Religious,United States
+los angeles lakers,2,7,3,10,5,7,1,1,7,1,1,4,Millennial,Male,Hispanic,>100k & <200k,Quite Liberal,Quite Religious,United States
+new york giants,1,0,1,0,1,3,1,1,3,1,1,1,Gen Z,Female,White,<50k,Neutral,Moderately Religious,United States
+philadelphia phillies,3,9,3,9,6,6,7,4,3,3,3,3,Gen X,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+atlanta falcons,1,5,1,3,5,2,4,1,3,1,1,1,Millennial,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+dallas cowboys,1,3,1,1,4,2,4,4,4,2,2,1,Millennial,Female,White,>100k & <200k,Quite Conservative,Usually Non-religious,United States
+capitals,2,7,1,5,3,3,5,6,1,1,1,1,Millennial,Female,White,>50k & <100k,Neutral,Quite Religious,United States
+fff,2,8,2,8,4,5,2,2,6,2,2,2,Millennial,Female,Asian,>50k & <100k,Neutral,Quite Non-religious,United States
+charlotte hornets,2,7,1,5,4,7,5,3,6,5,4,5,Boomer,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+new york yankees,3,10,3,10,7,7,1,1,1,1,1,1,Millennial,Female,African American,>50k & <100k,Neutral,Neutral,United States
+as team,2,8,2,7,5,6,6,5,5,6,6,5,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+"sport, team/player baseball, new york yankees football, new york giants basketball, new york knicks hockey, new jersey",2,8,2,7,4,5,6,5,6,5,6,5,Gen X,Male,White,<50k,Moderately Conservative,Quite Non-religious,United States
+football,2,7,1,6,6,5,4,5,5,5,5,5,Gen X,Male,Hispanic,>50k & <100k,Quite Liberal,Quite Non-religious,United States
+washington nationals,2,8,1,6,2,5,6,5,1,1,4,6,Gen Z,Female,White,<50k,Extremely Liberal,Quite Non-religious,United States
+nba,3,9,2,8,6,6,5,5,6,6,4,4,Boomer,Male,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+start watching a few games pick out the one (or two) that appeals to you,2,8,2,7,6,5,6,5,6,5,6,5,Gen X,Female,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+new york giants,2,7,2,7,4,3,2,5,1,4,5,5,Boomer,Male,White,<50k,Moderately Conservative,Usually Non-religious,United States
+boston red sox,1,4,1,3,1,3,5,3,3,1,1,4,Boomer,Female,African American,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+atlanta hawks,3,10,3,10,1,7,7,1,1,1,1,1,Millennial,Female,White,<50k,Extremely Conservative,Neutral,United States
+none,1,0,1,0,1,1,1,1,1,1,1,1,Boomer,Male,White,<50k,Quite Conservative,Extremely Non-religious,United States
+st louis blues,1,0,1,2,2,1,1,2,2,1,1,1,Gen X,Male,Other,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+cleveland browns,2,7,2,7,6,3,2,2,1,5,1,1,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+houston astros,3,10,1,6,7,5,7,1,2,1,1,5,Gen X,Male,White,>50k & <100k,Quite Conservative,Neutral,United States
+tennessee vols,3,10,1,5,7,7,7,1,2,1,1,3,Millennial,Male,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+wildcats,1,5,1,5,3,6,2,2,2,4,2,2,Millennial,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+seattle seahawks,3,10,3,10,7,1,1,1,1,1,1,1,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+philadelphia phillies,3,10,3,10,5,5,7,3,1,1,1,1,Millennial,Male,African American,>50k & <100k,Neutral,Neutral,United States
+los angeles lakers,3,10,3,10,7,7,3,1,1,1,1,1,Boomer,Female,Other,>50k & <100k,Quite Liberal,Quite Religious,United States
+milwaukee bucks,2,7,1,6,4,6,6,2,2,1,3,4,Millennial,Male,White,>50k & <100k,Neutral,Extremely Religious,United States
+football,2,7,1,6,4,5,3,4,5,4,6,4,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+tennis,2,8,2,7,4,5,4,6,5,4,5,6,Gen X,Female,White,<50k,Moderately Conservative,Quite Non-religious,United States
+new england patriots,2,7,1,6,7,6,5,4,5,6,4,6,Gen X,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+los angels dodgers,3,9,3,10,6,7,6,7,6,7,6,7,Millennial,Male,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+chicago bears,2,7,3,9,5,6,5,5,6,5,5,6,Gen X,Female,White,>50k & <100k,Quite Liberal,Usually Non-religious,United States
+kansas city chiefs,1,6,2,7,5,2,4,1,1,3,2,5,Millennial,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+north carolina tar heels football,1,6,2,8,6,5,5,4,4,5,4,4,Millennial,Male,White,>100k & <200k,Quite Conservative,Quite Religious,United States
+new york rangers,2,8,2,7,5,1,6,6,1,2,3,3,Gen X,Male,White,>50k & <100k,Moderately Conservative,Quite Religious,United States
+miami marlins,2,7,2,8,5,5,4,4,6,5,3,4,Millennial,Female,White,>50k & <100k,Quite Liberal,Moderately Religious,United States
+new york yankees,2,8,3,9,4,4,6,7,4,4,5,4,Boomer,Male,White,>50k & <100k,Quite Conservative,Usually Non-religious,United States
+miami hurricanes,2,8,2,8,7,4,4,5,3,2,2,2,Boomer,Male,White,>100k & <200k,Extremely Conservative,Moderately Religious,United States
+boston red sox,1,5,1,5,2,5,3,3,4,4,4,5,Gen Z,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+golden state warriors,1,5,1,5,3,5,4,4,2,2,3,5,Millennial,Female,Asian,<50k,Neutral,Usually Non-religious,United States
+atlanta falcons,3,10,3,10,7,1,1,1,1,1,7,7,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+green bay packers,3,10,3,9,7,3,5,5,2,5,5,6,Gen X,Male,White,>100k & <200k,Quite Conservative,Moderately Religious,United States
+houston rockets,1,4,1,6,5,6,4,1,4,1,1,4,Millennial,Female,African American,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+cleveland browns,2,7,1,5,6,1,2,1,4,1,4,2,Millennial,Male,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+miami heat,3,10,3,10,2,7,2,2,2,2,4,4,Gen Z,Male,African American,>50k & <100k,Quite Conservative,Moderately Religious,United States
+none,1,0,1,6,1,1,1,1,1,1,1,5,Millennial,Female,White,>50k & <100k,Extremely Conservative,Extremely Religious,United States
+seattle seahawks,3,9,2,7,7,5,4,3,2,2,2,6,Gen X,Male,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+tampa bay buccaneers,1,6,2,8,7,1,7,6,6,4,3,2,Millennial,Male,African American,<50k,Extremely Conservative,Extremely Religious,United States
+new york yankees,3,10,2,8,6,2,7,5,2,1,2,4,Boomer,Male,White,>50k & <100k,Neutral,Usually Non-religious,United States
+new york jets,2,8,2,8,6,6,6,6,6,6,4,7,Millennial,Male,White,<50k,Neutral,Moderately Religious,United States
+chicago bears,2,8,2,7,6,6,5,5,7,2,5,7,Gen Z,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+columbus blue jackets,3,10,1,5,7,1,4,7,1,7,1,7,Gen X,Female,White,>50k & <100k,Neutral,Moderately Religious,United States
+nfl team,2,7,1,6,6,6,4,5,4,5,5,5,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Neutral,United States
+new york yankees,3,10,3,10,7,5,7,5,4,2,5,6,Boomer,Male,White,<50k,Quite Conservative,Moderately Religious,United States
+vegas golden knights,1,5,1,4,2,5,1,6,2,1,1,1,Millennial,Female,Asian,<50k,Quite Liberal,Extremely Non-religious,United States
+nbl,2,7,2,7,5,4,6,5,4,6,5,5,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Quite Non-religious,United States
+golden state warriors,3,9,2,8,7,6,3,2,5,2,2,2,Gen Z,Male,Asian,>200k,Quite Conservative,Moderately Religious,United States
+atlanta braves,2,8,2,8,2,2,6,4,4,2,2,2,Boomer,Female,White,>50k & <100k,Moderately Conservative,Neutral,United States
+none,1,0,1,0,1,1,1,1,1,1,1,1,Gen X,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+tottenham hotspur,2,8,2,7,5,5,6,2,6,2,3,3,Millennial,Female,Asian,>50k & <100k,Quite Liberal,Quite Religious,United States
+chicago bears,3,9,2,8,7,5,4,3,1,3,1,1,Gen X,Female,African American,>100k & <200k,Extremely Liberal,Quite Non-religious,United States
+tennessee titans,2,8,1,5,6,4,4,5,2,1,1,1,Boomer,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+detroit lions,3,10,2,8,7,6,5,3,2,2,5,6,Millennial,Male,White,<50k,Quite Conservative,Neutral,United States
+utah jazz,3,10,2,8,7,5,4,3,3,1,4,3,Gen X,Male,White,>100k & <200k,Quite Liberal,Quite Religious,United States
+cleveland browns,2,8,1,6,7,7,3,2,1,1,1,5,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+manchester united,3,10,3,9,7,6,4,5,6,6,5,4,Millennial,Male,White,>50k & <100k,Extremely Liberal,Moderately Religious,United States
+football,2,8,2,7,6,5,5,4,1,1,1,1,Boomer,Female,White,<50k,Neutral,Extremely Non-religious,United States
+atlanta braves,2,8,2,7,5,6,7,4,3,5,1,1,Millennial,Male,White,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+basketball,1,6,1,5,1,5,1,1,1,1,1,5,Boomer,Female,Asian,<50k,Neutral,Moderately Religious,United States
+pittsburgh steelers,2,8,2,8,7,3,7,3,3,3,4,4,Boomer,Female,White,<50k,Quite Liberal,Moderately Religious,United States
+montreal canadian hockey team,1,5,1,5,2,3,2,6,1,4,2,2,Millennial,Female,White,<50k,Moderately Conservative,Extremely Religious,United States
+colorado avalanche,1,6,1,3,1,1,5,7,3,3,3,3,Millennial,Female,White,<50k,Extremely Liberal,Usually Non-religious,United States
+new orleans saints,1,0,1,0,1,1,1,1,1,1,1,4,Millennial,Female,Asian,<50k,Extremely Liberal,Quite Religious,United States
+dallas cowboys,1,3,1,0,3,3,3,1,1,1,1,1,Gen Z,Female,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+new york giants,3,9,2,7,7,6,5,3,3,1,2,2,Millennial,Male,White,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+san francisco 49ers,3,10,3,10,7,7,7,4,4,1,7,7,Gen X,Female,White,<50k,Neutral,Extremely Religious,United States
+none,1,0,1,0,1,1,1,1,1,1,1,1,Gen X,Female,White,<50k,Extremely Liberal,Quite Religious,United States
+kansas city chiefs,2,7,2,8,7,5,1,1,1,1,1,1,Boomer,Male,White,>50k & <100k,Neutral,Usually Non-religious,United States
+edmonton oilers,1,5,1,1,1,2,5,6,1,6,1,1,Gen X,Female,White,<50k,Extremely Liberal,Neutral,United States
+pittsburgh pirates,1,2,1,0,1,3,3,1,1,1,1,4,Gen X,0,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+philadelphia eagles,1,3,1,2,3,2,1,1,1,1,1,4,Boomer,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+new york giants,3,10,3,10,7,3,5,4,1,1,4,6,Millennial,Male,Asian,<50k,Moderately Conservative,Extremely Non-religious,United States
+st louis cardinals,2,7,3,10,6,1,4,6,2,2,7,7,Millennial,Male,Hispanic,<50k,Neutral,Moderately Religious,United States
+los angeles lakers,1,5,2,8,4,5,1,1,1,1,1,6,Millennial,Female,African American,>50k & <100k,Extremely Liberal,Neutral,United States
+oakland a's,3,10,2,7,5,4,7,3,2,1,3,2,Gen X,Male,Asian,>100k & <200k,Extremely Liberal,Neutral,United States
+st louis cardinals,1,3,1,1,5,2,1,1,4,2,2,4,Gen Z,Male,White,<50k,Quite Liberal,Extremely Non-religious,United States
+pittsburgh steelers,2,7,1,5,7,3,3,6,1,1,2,4,Gen X,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+san francisco 49ers,3,9,2,8,7,5,4,4,4,3,2,5,Millennial,Male,White,<50k,Quite Conservative,Extremely Religious,United States
+detroit red wings,3,10,3,10,7,4,6,7,3,1,2,1,Millennial,Female,White,>50k & <100k,Extremely Liberal,Quite Non-religious,United States
+new york knicks,3,9,1,5,7,7,2,2,2,2,4,5,Millennial,Male,White,>50k & <100k,Extremely Liberal,Quite Religious,United States
+anaheim angels,1,6,1,2,3,1,5,1,2,1,5,7,Millennial,Female,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+philadelphia eagles,1,0,1,0,1,1,1,1,1,1,1,1,Millennial,Male,White,>100k & <200k,Extremely Conservative,Extremely Religious,United States
+chargers,1,5,1,5,6,3,2,5,2,7,3,3,Gen Z,Male,White,<50k,Quite Conservative,Extremely Non-religious,United States
+jacksonville jaguars,2,8,1,5,7,7,1,4,7,1,5,3,Millennial,Female,White,<50k,Neutral,Moderately Religious,United States
+new york yankees,1,2,1,2,2,1,1,1,1,1,1,6,Gen Z,Male,White,<50k,Extremely Conservative,Extremely Religious,United States
+green bay packers,2,7,3,9,6,6,5,4,5,5,4,4,Gen X,Male,White,>50k & <100k,Quite Liberal,Quite Religious,United States
+dallas stars,3,10,3,10,7,6,7,7,4,2,6,6,Boomer,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+tennis,2,8,2,7,7,6,5,6,5,4,1,1,Millennial,Female,White,<50k,Moderately Conservative,Quite Religious,United States
+new york jets,3,9,2,7,5,6,5,5,6,6,4,3,Millennial,Female,White,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+new york giants,2,7,2,7,7,1,5,3,1,1,1,1,Millennial,Female,White,>200k,Quite Conservative,Usually Non-religious,United States
+chicago bears,1,5,1,5,5,4,5,2,1,1,4,1,Millennial,Female,White,<50k,Neutral,Usually Non-religious,United States
+dallas mavericks,3,10,3,10,7,7,7,6,6,6,6,6,Millennial,Female,White,<50k,Quite Liberal,Quite Non-religious,United States
+washington wizards,2,7,1,6,4,5,6,4,5,6,6,5,Gen X,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+los angeles lakers,3,9,3,10,6,7,6,1,6,5,4,4,Millennial,Female,White,<50k,Extremely Liberal,Neutral,United States
+carolina panthers,2,7,2,7,4,3,3,2,2,2,5,6,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+denver broncos,1,5,1,3,4,1,1,2,1,1,1,4,Millennial,Female,Mixed Race,>100k & <200k,Moderately Conservative,Neutral,United States
+new england patriots,3,10,3,9,7,7,7,6,3,5,6,6,Millennial,Male,Hispanic,<50k,Extremely Conservative,Moderately Religious,United States
+colorado avalanche,2,7,2,7,2,3,1,6,4,4,6,7,Millennial,Male,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+golden state warriors,1,6,2,7,1,6,2,3,6,5,2,5,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+chicago cubs,2,7,1,5,4,4,5,5,4,4,4,4,Gen Z,Female,White,>50k & <100k,Neutral,Usually Non-religious,United States
+cricket,3,9,3,10,7,6,5,7,6,6,5,7,Boomer,Male,African American,<50k,Moderately Conservative,Quite Religious,United States
+new york mets,1,3,1,3,2,3,6,4,2,2,2,5,Gen X,Female,White,>50k & <100k,Quite Conservative,Moderately Religious,United States
+new york yankees,1,5,1,3,5,6,7,4,2,4,2,2,Millennial,Female,White,>100k & <200k,Quite Liberal,Extremely Non-religious,United States
+cleveland browns,2,8,2,8,6,6,7,1,2,1,4,4,Millennial,Female,White,>200k,Quite Liberal,Quite Religious,United States
+kansas city chiefs,3,10,3,10,7,4,1,3,3,7,5,5,Millennial,Female,African American,<50k,Neutral,Extremely Religious,United States
+fc barcelona,2,8,2,8,2,5,2,2,7,6,1,1,Gen Z,Null,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+dallas mavericks,3,9,2,8,7,5,6,5,7,7,6,5,Millennial,Male,White,>100k & <200k,Moderately Conservative,Extremely Non-religious,United States
+philadelphia flyers,1,6,1,5,2,1,1,7,1,1,3,4,Gen Z,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+los angeles lakers,2,7,2,7,1,7,2,4,5,7,2,2,Gen Z,Female,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States
+green bay packers,1,5,2,7,6,5,2,1,1,1,2,7,Gen Z,Male,African American,<50k,Moderately Conservative,Extremely Non-religious,United States
+fc dallas,3,10,3,10,7,6,1,7,7,1,1,1,Millennial,Male,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+cleveland browns,2,8,3,9,7,3,1,1,4,6,6,6,Gen Z,Male,Hispanic,>100k & <200k,Quite Liberal,Neutral,United States
+miami heat,2,7,1,5,5,6,3,1,3,4,4,4,Millennial,Male,African American,>50k & <100k,Quite Liberal,Moderately Religious,United States
+houston rockets,2,7,1,3,1,2,5,1,4,4,1,1,Millennial,Female,Hispanic,<50k,Extremely Liberal,Extremely Non-religious,United States
+fc barcelona,3,10,3,10,7,6,6,7,6,6,3,3,Millennial,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+new jersey devils,3,10,3,10,7,4,7,7,2,1,3,3,Millennial,Male,White,>50k & <100k,Neutral,Extremely Non-religious,United States
+minnesota twins,1,2,1,0,2,1,3,2,2,1,1,5,Gen Z,Male,White,>50k & <100k,Extremely Liberal,Usually Non-religious,United States
+st louis cardinals,2,8,2,8,7,7,6,2,1,4,4,4,Millennial,Male,African American,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+new york yankees,2,7,1,6,1,6,4,2,6,6,5,5,Gen Z,Female,Asian,>50k & <100k,Extremely Liberal,Extremely Non-religious,United States
+dallas cowboys,1,5,1,3,5,3,3,3,3,6,6,6,Gen Z,Male,White,<50k,Extremely Liberal,Moderately Religious,United States
+pittsburgh steelers,3,10,3,9,6,5,2,6,4,2,4,4,Millennial,Male,White,<50k,Moderately Conservative,Quite Religious,United States
+baltimore ravens,3,10,1,5,7,1,2,7,6,1,1,1,Millennial,Female,White,<50k,Extremely Liberal,Extremely Non-religious,United States
+tennessee titans,2,7,2,8,7,4,5,1,1,3,4,4,Millennial,Female,White,<50k,Extremely Conservative,Extremely Religious,United States
+samsung white,1,4,1,3,1,1,1,1,1,7,1,1,Gen Z,Female,Asian,>50k & <100k,Neutral,Extremely Non-religious,United States
+purdue university basketball,1,3,1,3,4,5,6,5,1,1,3,3,Gen Z,Female,White,>100k & <200k,Extremely Liberal,Quite Non-religious,United States
+green bay packers,3,10,3,10,7,7,7,4,2,1,4,4,Gen Z,Male,White,>50k & <100k,Quite Liberal,Extremely Non-religious,United States
+los angeles lakers,2,7,1,2,5,7,2,4,1,1,1,1,Millennial,Female,African American,>50k & <100k,Moderately Conservative,Quite Religious,United States
+south carolina gamecocks,3,10,3,10,7,3,5,1,1,1,5,4,Gen Z,Female,White,>50k & <100k,Extremely Conservative,Neutral,United States
+boston red sox,3,9,1,5,2,3,6,4,4,4,3,3,Gen Z,Female,White,<50k,Moderately Conservative,Extremely Non-religious,United States
+miami heat,2,8,3,9,2,7,1,1,2,4,4,3,Gen Z,Male,African American,>50k & <100k,Moderately Conservative,Moderately Religious,United States
+liverpool fc,3,9,3,10,7,6,2,1,7,7,1,1,Gen Z,Male,White,>50k & <100k,Moderately Conservative,Usually Non-religious,United States
+san antonio spurs,2,7,2,7,2,6,1,2,2,2,2,5,Gen Z,Male,Mixed Race,<50k,Quite Liberal,Moderately Religious,United States
+buffalo bills,2,8,1,6,7,3,1,6,1,1,1,1,Gen Z,Male,White,>100k & <200k,Extremely Liberal,Extremely Non-religious,United States
+dallas mavericks,1,3,1,3,2,6,2,1,5,1,2,2,Gen Z,Female,White,<50k,Moderately Conservative,Usually Non-religious,United States
+none,1,0,1,0,1,1,1,1,4,6,1,1,Gen Z,Female,Hispanic,<50k,Neutral,Neutral,United States
+university of alabama,2,7,2,7,7,1,5,2,3,1,1,1,Millennial,Female,White,<50k,Neutral,Moderately Religious,United States
+new orleans saints,1,5,2,7,6,1,4,1,3,1,1,1,Millennial,Female,Mixed Race,>50k & <100k,Neutral,Quite Religious,United States
+new york yankees,1,0,1,0,1,1,1,1,1,6,4,5,Millennial,Male,White,>50k & <100k,Moderately Conservative,Extremely Non-religious,United States

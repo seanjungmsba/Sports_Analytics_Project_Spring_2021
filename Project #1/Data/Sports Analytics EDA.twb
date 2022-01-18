@@ -1,0 +1,2771 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20203.20.1018.2303                               -->
+<workbook original-version='18.1' source-build='2020.3.2 (20203.20.1018.2303)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='fan_demographics' inline='true' name='federated.07g5zn30uyatvf12shbsl0lezb8q' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='fan_demographics' name='textscan.0bxbp820oxzck10zwjimo1yugekc'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='fan_demographics.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0bxbp820oxzck10zwjimo1yugekc' name='fan_demographics.csv' table='[fan_demographics#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q18_1' ordinal='0' />
+            <column datatype='integer' name='Q18_2' ordinal='1' />
+            <column datatype='integer' name='Q18_3' ordinal='2' />
+            <column datatype='integer' name='Q18_4' ordinal='3' />
+            <column datatype='integer' name='Q18_5' ordinal='4' />
+            <column datatype='integer' name='Q18_6' ordinal='5' />
+            <column datatype='integer' name='Q18_7' ordinal='6' />
+            <column datatype='integer' name='Q18_8' ordinal='7' />
+            <column datatype='string' name='generation' ordinal='8' />
+            <column datatype='string' name='gender' ordinal='9' />
+            <column datatype='string' name='race' ordinal='10' />
+            <column datatype='string' name='SES' ordinal='11' />
+            <column datatype='string' name='political_spectrum' ordinal='12' />
+            <column datatype='string' name='religious_spectrum' ordinal='13' />
+            <column datatype='string' name='nationality' ordinal='14' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0bxbp820oxzck10zwjimo1yugekc' name='fan_demographics.csv' table='[fan_demographics#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q18_1' ordinal='0' />
+            <column datatype='integer' name='Q18_2' ordinal='1' />
+            <column datatype='integer' name='Q18_3' ordinal='2' />
+            <column datatype='integer' name='Q18_4' ordinal='3' />
+            <column datatype='integer' name='Q18_5' ordinal='4' />
+            <column datatype='integer' name='Q18_6' ordinal='5' />
+            <column datatype='integer' name='Q18_7' ordinal='6' />
+            <column datatype='integer' name='Q18_8' ordinal='7' />
+            <column datatype='string' name='generation' ordinal='8' />
+            <column datatype='string' name='gender' ordinal='9' />
+            <column datatype='string' name='race' ordinal='10' />
+            <column datatype='string' name='SES' ordinal='11' />
+            <column datatype='string' name='political_spectrum' ordinal='12' />
+            <column datatype='string' name='religious_spectrum' ordinal='13' />
+            <column datatype='string' name='nationality' ordinal='14' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_1]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_2]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_3]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_4]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_4</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_5</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_5]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_5</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_6</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_6]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_6</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_7</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_7]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_7</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q18_8</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q18_8]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>Q18_8</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[fan_demographics.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q18 1' datatype='integer' name='[Q18_1]' role='measure' type='quantitative' />
+      <column caption='Q18 2' datatype='integer' name='[Q18_2]' role='measure' type='quantitative' />
+      <column caption='Q18 3' datatype='integer' name='[Q18_3]' role='measure' type='quantitative' />
+      <column caption='Q18 4' datatype='integer' name='[Q18_4]' role='measure' type='quantitative' />
+      <column caption='Q18 5' datatype='integer' name='[Q18_5]' role='measure' type='quantitative' />
+      <column caption='Q18 6' datatype='integer' name='[Q18_6]' role='measure' type='quantitative' />
+      <column caption='Q18 7' datatype='integer' name='[Q18_7]' role='measure' type='quantitative' />
+      <column caption='Q18 8' datatype='integer' name='[Q18_8]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='fan_demographics.csv' datatype='table' name='[__tableau_internal_object_id__].[fan_demographics.csv_7EBE95E791A54582BB816187D276F517]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <column-instance column='[Q18_1]' derivation='Median' name='[med:Q18_1:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_1]' derivation='Sum' name='[sum:Q18_1:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_2]' derivation='Sum' name='[sum:Q18_2:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_3]' derivation='Sum' name='[sum:Q18_3:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_4]' derivation='Sum' name='[sum:Q18_4:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_5]' derivation='Sum' name='[sum:Q18_5:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_6]' derivation='Sum' name='[sum:Q18_6:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_7]' derivation='Sum' name='[sum:Q18_7:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Q18_8]' derivation='Sum' name='[sum:Q18_8:qk]' pivot='key' type='quantitative' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[med:Q18_1:qk]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_1:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_5:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_4:qk]&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_7:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_3:qk]&quot;</bucket>
+            </map>
+            <map to='#edc948'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_6:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_2:qk]&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;[federated.07g5zn30uyatvf12shbsl0lezb8q].[sum:Q18_8:qk]&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='fan_demographics.csv' id='fan_demographics.csv_7EBE95E791A54582BB816187D276F517'>
+            <properties context=''>
+              <relation connection='textscan.0bxbp820oxzck10zwjimo1yugekc' name='fan_demographics.csv' table='[fan_demographics#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q18_1' ordinal='0' />
+                  <column datatype='integer' name='Q18_2' ordinal='1' />
+                  <column datatype='integer' name='Q18_3' ordinal='2' />
+                  <column datatype='integer' name='Q18_4' ordinal='3' />
+                  <column datatype='integer' name='Q18_5' ordinal='4' />
+                  <column datatype='integer' name='Q18_6' ordinal='5' />
+                  <column datatype='integer' name='Q18_7' ordinal='6' />
+                  <column datatype='integer' name='Q18_8' ordinal='7' />
+                  <column datatype='string' name='generation' ordinal='8' />
+                  <column datatype='string' name='gender' ordinal='9' />
+                  <column datatype='string' name='race' ordinal='10' />
+                  <column datatype='string' name='SES' ordinal='11' />
+                  <column datatype='string' name='political_spectrum' ordinal='12' />
+                  <column datatype='string' name='religious_spectrum' ordinal='13' />
+                  <column datatype='string' name='nationality' ordinal='14' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='individual_movie' inline='true' name='federated.1paw1cg0xzwg2n1ca6osf10fljyw' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='individual_movie' name='textscan.1nqxkid1bfqblo0zyit5v0urwkbx'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='individual_movie.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1nqxkid1bfqblo0zyit5v0urwkbx' name='individual_movie.csv' table='[individual_movie#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_21' ordinal='0' />
+            <column datatype='integer' name='Q28#1_22' ordinal='1' />
+            <column datatype='integer' name='Q28#1_23' ordinal='2' />
+            <column datatype='integer' name='Q28#1_24' ordinal='3' />
+            <column datatype='string' name='generation' ordinal='4' />
+            <column datatype='string' name='gender' ordinal='5' />
+            <column datatype='string' name='race' ordinal='6' />
+            <column datatype='string' name='SES' ordinal='7' />
+            <column datatype='string' name='political_spectrum' ordinal='8' />
+            <column datatype='string' name='religious_spectrum' ordinal='9' />
+            <column datatype='string' name='nationality' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1nqxkid1bfqblo0zyit5v0urwkbx' name='individual_movie.csv' table='[individual_movie#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_21' ordinal='0' />
+            <column datatype='integer' name='Q28#1_22' ordinal='1' />
+            <column datatype='integer' name='Q28#1_23' ordinal='2' />
+            <column datatype='integer' name='Q28#1_24' ordinal='3' />
+            <column datatype='string' name='generation' ordinal='4' />
+            <column datatype='string' name='gender' ordinal='5' />
+            <column datatype='string' name='race' ordinal='6' />
+            <column datatype='string' name='SES' ordinal='7' />
+            <column datatype='string' name='political_spectrum' ordinal='8' />
+            <column datatype='string' name='religious_spectrum' ordinal='9' />
+            <column datatype='string' name='nationality' ordinal='10' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_21</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_21]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>Q28#1_21</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_22</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_22]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>Q28#1_22</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_23</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_23]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>Q28#1_23</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_24</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_24]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>Q28#1_24</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[individual_movie.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_movie.csv_77382933C27345A39D26502F988580A5]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q28#1 21' datatype='integer' name='[Q28#1_21]' role='measure' type='quantitative' />
+      <column caption='Q28#1 22' datatype='integer' name='[Q28#1_22]' role='measure' type='quantitative' />
+      <column caption='Q28#1 23' datatype='integer' name='[Q28#1_23]' role='measure' type='quantitative' />
+      <column caption='Q28#1 24' datatype='integer' name='[Q28#1_24]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='individual_movie.csv' datatype='table' name='[__tableau_internal_object_id__].[individual_movie.csv_77382933C27345A39D26502F988580A5]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='individual_movie.csv' id='individual_movie.csv_77382933C27345A39D26502F988580A5'>
+            <properties context=''>
+              <relation connection='textscan.1nqxkid1bfqblo0zyit5v0urwkbx' name='individual_movie.csv' table='[individual_movie#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q28#1_21' ordinal='0' />
+                  <column datatype='integer' name='Q28#1_22' ordinal='1' />
+                  <column datatype='integer' name='Q28#1_23' ordinal='2' />
+                  <column datatype='integer' name='Q28#1_24' ordinal='3' />
+                  <column datatype='string' name='generation' ordinal='4' />
+                  <column datatype='string' name='gender' ordinal='5' />
+                  <column datatype='string' name='race' ordinal='6' />
+                  <column datatype='string' name='SES' ordinal='7' />
+                  <column datatype='string' name='political_spectrum' ordinal='8' />
+                  <column datatype='string' name='religious_spectrum' ordinal='9' />
+                  <column datatype='string' name='nationality' ordinal='10' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='individual_music' inline='true' name='federated.00baoiq0znbrxl12d78re06nkn52' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='individual_music' name='textscan.0l6uqkf1xzl7a81a98gll0mc5dhs'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='individual_music.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0l6uqkf1xzl7a81a98gll0mc5dhs' name='individual_music.csv' table='[individual_music#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_14' ordinal='0' />
+            <column datatype='integer' name='Q28#1_15' ordinal='1' />
+            <column datatype='integer' name='Q28#1_16' ordinal='2' />
+            <column datatype='integer' name='Q28#1_17' ordinal='3' />
+            <column datatype='integer' name='Q28#1_18' ordinal='4' />
+            <column datatype='integer' name='Q28#1_19' ordinal='5' />
+            <column datatype='integer' name='Q28#1_20' ordinal='6' />
+            <column datatype='string' name='generation' ordinal='7' />
+            <column datatype='string' name='gender' ordinal='8' />
+            <column datatype='string' name='race' ordinal='9' />
+            <column datatype='string' name='SES' ordinal='10' />
+            <column datatype='string' name='political_spectrum' ordinal='11' />
+            <column datatype='string' name='religious_spectrum' ordinal='12' />
+            <column datatype='string' name='nationality' ordinal='13' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0l6uqkf1xzl7a81a98gll0mc5dhs' name='individual_music.csv' table='[individual_music#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_14' ordinal='0' />
+            <column datatype='integer' name='Q28#1_15' ordinal='1' />
+            <column datatype='integer' name='Q28#1_16' ordinal='2' />
+            <column datatype='integer' name='Q28#1_17' ordinal='3' />
+            <column datatype='integer' name='Q28#1_18' ordinal='4' />
+            <column datatype='integer' name='Q28#1_19' ordinal='5' />
+            <column datatype='integer' name='Q28#1_20' ordinal='6' />
+            <column datatype='string' name='generation' ordinal='7' />
+            <column datatype='string' name='gender' ordinal='8' />
+            <column datatype='string' name='race' ordinal='9' />
+            <column datatype='string' name='SES' ordinal='10' />
+            <column datatype='string' name='political_spectrum' ordinal='11' />
+            <column datatype='string' name='religious_spectrum' ordinal='12' />
+            <column datatype='string' name='nationality' ordinal='13' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_14</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_14]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_14</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_15</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_15]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_15</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_16</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_16]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_16</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_17</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_17]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_17</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_18</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_18]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_18</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_19</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_19]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_19</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_20</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_20]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>Q28#1_20</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[individual_music.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q28#1 14' datatype='integer' name='[Q28#1_14]' role='measure' type='quantitative' />
+      <column caption='Q28#1 15' datatype='integer' name='[Q28#1_15]' role='measure' type='quantitative' />
+      <column caption='Q28#1 16' datatype='integer' name='[Q28#1_16]' role='measure' type='quantitative' />
+      <column caption='Q28#1 17' datatype='integer' name='[Q28#1_17]' role='measure' type='quantitative' />
+      <column caption='Q28#1 18' datatype='integer' name='[Q28#1_18]' role='measure' type='quantitative' />
+      <column caption='Q28#1 19' datatype='integer' name='[Q28#1_19]' role='measure' type='quantitative' />
+      <column caption='Q28#1 20' datatype='integer' name='[Q28#1_20]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='individual_music.csv' datatype='table' name='[__tableau_internal_object_id__].[individual_music.csv_E7A1D706B2B74419962E5592F05F68BC]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='individual_music.csv' id='individual_music.csv_E7A1D706B2B74419962E5592F05F68BC'>
+            <properties context=''>
+              <relation connection='textscan.0l6uqkf1xzl7a81a98gll0mc5dhs' name='individual_music.csv' table='[individual_music#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q28#1_14' ordinal='0' />
+                  <column datatype='integer' name='Q28#1_15' ordinal='1' />
+                  <column datatype='integer' name='Q28#1_16' ordinal='2' />
+                  <column datatype='integer' name='Q28#1_17' ordinal='3' />
+                  <column datatype='integer' name='Q28#1_18' ordinal='4' />
+                  <column datatype='integer' name='Q28#1_19' ordinal='5' />
+                  <column datatype='integer' name='Q28#1_20' ordinal='6' />
+                  <column datatype='string' name='generation' ordinal='7' />
+                  <column datatype='string' name='gender' ordinal='8' />
+                  <column datatype='string' name='race' ordinal='9' />
+                  <column datatype='string' name='SES' ordinal='10' />
+                  <column datatype='string' name='political_spectrum' ordinal='11' />
+                  <column datatype='string' name='religious_spectrum' ordinal='12' />
+                  <column datatype='string' name='nationality' ordinal='13' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='individual_politics' inline='true' name='federated.1mluiys1vagy061ds7lsm185te5q' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='individual_politics' name='textscan.118ptb809kky221brvxz80t9sber'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='individual_politics.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.118ptb809kky221brvxz80t9sber' name='individual_politics.csv' table='[individual_politics#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_29' ordinal='0' />
+            <column datatype='integer' name='Q28#1_30' ordinal='1' />
+            <column datatype='string' name='generation' ordinal='2' />
+            <column datatype='string' name='gender' ordinal='3' />
+            <column datatype='string' name='race' ordinal='4' />
+            <column datatype='string' name='SES' ordinal='5' />
+            <column datatype='string' name='political_spectrum' ordinal='6' />
+            <column datatype='string' name='religious_spectrum' ordinal='7' />
+            <column datatype='string' name='nationality' ordinal='8' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.118ptb809kky221brvxz80t9sber' name='individual_politics.csv' table='[individual_politics#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_29' ordinal='0' />
+            <column datatype='integer' name='Q28#1_30' ordinal='1' />
+            <column datatype='string' name='generation' ordinal='2' />
+            <column datatype='string' name='gender' ordinal='3' />
+            <column datatype='string' name='race' ordinal='4' />
+            <column datatype='string' name='SES' ordinal='5' />
+            <column datatype='string' name='political_spectrum' ordinal='6' />
+            <column datatype='string' name='religious_spectrum' ordinal='7' />
+            <column datatype='string' name='nationality' ordinal='8' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_29</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_29]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>Q28#1_29</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_30</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_30]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>Q28#1_30</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[individual_politics.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q28#1 29' datatype='integer' name='[Q28#1_29]' role='measure' type='quantitative' />
+      <column caption='Q28#1 30' datatype='integer' name='[Q28#1_30]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='individual_politics.csv' datatype='table' name='[__tableau_internal_object_id__].[individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='individual_politics.csv' id='individual_politics.csv_AE6BE86031444343BE7F981498B7CA0A'>
+            <properties context=''>
+              <relation connection='textscan.118ptb809kky221brvxz80t9sber' name='individual_politics.csv' table='[individual_politics#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q28#1_29' ordinal='0' />
+                  <column datatype='integer' name='Q28#1_30' ordinal='1' />
+                  <column datatype='string' name='generation' ordinal='2' />
+                  <column datatype='string' name='gender' ordinal='3' />
+                  <column datatype='string' name='race' ordinal='4' />
+                  <column datatype='string' name='SES' ordinal='5' />
+                  <column datatype='string' name='political_spectrum' ordinal='6' />
+                  <column datatype='string' name='religious_spectrum' ordinal='7' />
+                  <column datatype='string' name='nationality' ordinal='8' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='individual_sns' inline='true' name='federated.1tyj2wc1onof1w11neybd1ntg85b' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='individual_sns' name='textscan.1qd1j76032jtus19m6a5c1igsr8d'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='individual_sns.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1qd1j76032jtus19m6a5c1igsr8d' name='individual_sns.csv' table='[individual_sns#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_26' ordinal='0' />
+            <column datatype='integer' name='Q28#1_27' ordinal='1' />
+            <column datatype='integer' name='Q28#1_28' ordinal='2' />
+            <column datatype='string' name='generation' ordinal='3' />
+            <column datatype='string' name='gender' ordinal='4' />
+            <column datatype='string' name='race' ordinal='5' />
+            <column datatype='string' name='SES' ordinal='6' />
+            <column datatype='string' name='political_spectrum' ordinal='7' />
+            <column datatype='string' name='religious_spectrum' ordinal='8' />
+            <column datatype='string' name='nationality' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1qd1j76032jtus19m6a5c1igsr8d' name='individual_sns.csv' table='[individual_sns#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_26' ordinal='0' />
+            <column datatype='integer' name='Q28#1_27' ordinal='1' />
+            <column datatype='integer' name='Q28#1_28' ordinal='2' />
+            <column datatype='string' name='generation' ordinal='3' />
+            <column datatype='string' name='gender' ordinal='4' />
+            <column datatype='string' name='race' ordinal='5' />
+            <column datatype='string' name='SES' ordinal='6' />
+            <column datatype='string' name='political_spectrum' ordinal='7' />
+            <column datatype='string' name='religious_spectrum' ordinal='8' />
+            <column datatype='string' name='nationality' ordinal='9' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_26</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_26]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>Q28#1_26</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_27</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_27]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>Q28#1_27</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_28</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_28]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>Q28#1_28</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[individual_sns.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q28#1 26' datatype='integer' name='[Q28#1_26]' role='measure' type='quantitative' />
+      <column caption='Q28#1 27' datatype='integer' name='[Q28#1_27]' role='measure' type='quantitative' />
+      <column caption='Q28#1 28' datatype='integer' name='[Q28#1_28]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='individual_sns.csv' datatype='table' name='[__tableau_internal_object_id__].[individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='individual_sns.csv' id='individual_sns.csv_3A9E2911581B46A8949CB6A6F66B0ABF'>
+            <properties context=''>
+              <relation connection='textscan.1qd1j76032jtus19m6a5c1igsr8d' name='individual_sns.csv' table='[individual_sns#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q28#1_26' ordinal='0' />
+                  <column datatype='integer' name='Q28#1_27' ordinal='1' />
+                  <column datatype='integer' name='Q28#1_28' ordinal='2' />
+                  <column datatype='string' name='generation' ordinal='3' />
+                  <column datatype='string' name='gender' ordinal='4' />
+                  <column datatype='string' name='race' ordinal='5' />
+                  <column datatype='string' name='SES' ordinal='6' />
+                  <column datatype='string' name='political_spectrum' ordinal='7' />
+                  <column datatype='string' name='religious_spectrum' ordinal='8' />
+                  <column datatype='string' name='nationality' ordinal='9' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='individual_sports' inline='true' name='federated.10pac4l1iy8uru0ztehqu1lnv09t' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='individual_sports' name='textscan.1g0quon1gy3o0u101uda90bu55cc'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='individual_sports.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1g0quon1gy3o0u101uda90bu55cc' name='individual_sports.csv' table='[individual_sports#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_1' ordinal='0' />
+            <column datatype='integer' name='Q28#1_2' ordinal='1' />
+            <column datatype='integer' name='Q28#1_3' ordinal='2' />
+            <column datatype='integer' name='Q28#1_4' ordinal='3' />
+            <column datatype='integer' name='Q28#1_5' ordinal='4' />
+            <column datatype='integer' name='Q28#1_6' ordinal='5' />
+            <column datatype='integer' name='Q28#1_7' ordinal='6' />
+            <column datatype='integer' name='Q28#1_8' ordinal='7' />
+            <column datatype='integer' name='Q28#1_9' ordinal='8' />
+            <column datatype='integer' name='Q28#1_10' ordinal='9' />
+            <column datatype='integer' name='Q28#1_11' ordinal='10' />
+            <column datatype='integer' name='Q28#1_12' ordinal='11' />
+            <column datatype='integer' name='Q28#1_13' ordinal='12' />
+            <column datatype='string' name='generation' ordinal='13' />
+            <column datatype='string' name='gender' ordinal='14' />
+            <column datatype='string' name='race' ordinal='15' />
+            <column datatype='string' name='SES' ordinal='16' />
+            <column datatype='string' name='political_spectrum' ordinal='17' />
+            <column datatype='string' name='religious_spectrum' ordinal='18' />
+            <column datatype='string' name='nationality' ordinal='19' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1g0quon1gy3o0u101uda90bu55cc' name='individual_sports.csv' table='[individual_sports#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q28#1_1' ordinal='0' />
+            <column datatype='integer' name='Q28#1_2' ordinal='1' />
+            <column datatype='integer' name='Q28#1_3' ordinal='2' />
+            <column datatype='integer' name='Q28#1_4' ordinal='3' />
+            <column datatype='integer' name='Q28#1_5' ordinal='4' />
+            <column datatype='integer' name='Q28#1_6' ordinal='5' />
+            <column datatype='integer' name='Q28#1_7' ordinal='6' />
+            <column datatype='integer' name='Q28#1_8' ordinal='7' />
+            <column datatype='integer' name='Q28#1_9' ordinal='8' />
+            <column datatype='integer' name='Q28#1_10' ordinal='9' />
+            <column datatype='integer' name='Q28#1_11' ordinal='10' />
+            <column datatype='integer' name='Q28#1_12' ordinal='11' />
+            <column datatype='integer' name='Q28#1_13' ordinal='12' />
+            <column datatype='string' name='generation' ordinal='13' />
+            <column datatype='string' name='gender' ordinal='14' />
+            <column datatype='string' name='race' ordinal='15' />
+            <column datatype='string' name='SES' ordinal='16' />
+            <column datatype='string' name='political_spectrum' ordinal='17' />
+            <column datatype='string' name='religious_spectrum' ordinal='18' />
+            <column datatype='string' name='nationality' ordinal='19' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_1]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_2]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_3]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_4]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_4</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_5</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_5]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_5</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_6</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_6]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_6</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_7</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_7]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_7</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_8</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_8]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_8</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_9</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_9]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_9</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_10</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_10]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_10</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_11</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_11]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_11</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_12</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_12]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_12</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q28#1_13</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q28#1_13]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>Q28#1_13</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[individual_sports.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[individual_sports.csv_0A382F33423041D4928DE700202D723C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q28#1 10' datatype='integer' name='[Q28#1_10]' role='measure' type='quantitative' />
+      <column caption='Q28#1 11' datatype='integer' name='[Q28#1_11]' role='measure' type='quantitative' />
+      <column caption='Q28#1 12' datatype='integer' name='[Q28#1_12]' role='measure' type='quantitative' />
+      <column caption='Q28#1 13' datatype='integer' name='[Q28#1_13]' role='measure' type='quantitative' />
+      <column caption='Q28#1 1' datatype='integer' name='[Q28#1_1]' role='measure' type='quantitative' />
+      <column caption='Q28#1 2' datatype='integer' name='[Q28#1_2]' role='measure' type='quantitative' />
+      <column caption='Q28#1 3' datatype='integer' name='[Q28#1_3]' role='measure' type='quantitative' />
+      <column caption='Q28#1 4' datatype='integer' name='[Q28#1_4]' role='measure' type='quantitative' />
+      <column caption='Q28#1 5' datatype='integer' name='[Q28#1_5]' role='measure' type='quantitative' />
+      <column caption='Q28#1 6' datatype='integer' name='[Q28#1_6]' role='measure' type='quantitative' />
+      <column caption='Q28#1 7' datatype='integer' name='[Q28#1_7]' role='measure' type='quantitative' />
+      <column caption='Q28#1 8' datatype='integer' name='[Q28#1_8]' role='measure' type='quantitative' />
+      <column caption='Q28#1 9' datatype='integer' name='[Q28#1_9]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='individual_sports.csv' datatype='table' name='[__tableau_internal_object_id__].[individual_sports.csv_0A382F33423041D4928DE700202D723C]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='individual_sports.csv' id='individual_sports.csv_0A382F33423041D4928DE700202D723C'>
+            <properties context=''>
+              <relation connection='textscan.1g0quon1gy3o0u101uda90bu55cc' name='individual_sports.csv' table='[individual_sports#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q28#1_1' ordinal='0' />
+                  <column datatype='integer' name='Q28#1_2' ordinal='1' />
+                  <column datatype='integer' name='Q28#1_3' ordinal='2' />
+                  <column datatype='integer' name='Q28#1_4' ordinal='3' />
+                  <column datatype='integer' name='Q28#1_5' ordinal='4' />
+                  <column datatype='integer' name='Q28#1_6' ordinal='5' />
+                  <column datatype='integer' name='Q28#1_7' ordinal='6' />
+                  <column datatype='integer' name='Q28#1_8' ordinal='7' />
+                  <column datatype='integer' name='Q28#1_9' ordinal='8' />
+                  <column datatype='integer' name='Q28#1_10' ordinal='9' />
+                  <column datatype='integer' name='Q28#1_11' ordinal='10' />
+                  <column datatype='integer' name='Q28#1_12' ordinal='11' />
+                  <column datatype='integer' name='Q28#1_13' ordinal='12' />
+                  <column datatype='string' name='generation' ordinal='13' />
+                  <column datatype='string' name='gender' ordinal='14' />
+                  <column datatype='string' name='race' ordinal='15' />
+                  <column datatype='string' name='SES' ordinal='16' />
+                  <column datatype='string' name='political_spectrum' ordinal='17' />
+                  <column datatype='string' name='religious_spectrum' ordinal='18' />
+                  <column datatype='string' name='nationality' ordinal='19' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='sports_fandom' inline='true' name='federated.0i0ra8p1hsdoki10pxxkv1nc5xjx' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='sports_fandom' name='textscan.1c682nz0zvslkd1aq8asu1pw5qer'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='sports_fandom.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.1c682nz0zvslkd1aq8asu1pw5qer' name='sports_fandom.csv' table='[sports_fandom#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Q2' ordinal='0' />
+            <column datatype='integer' name='Q3_NPS_GROUP' ordinal='1' />
+            <column datatype='integer' name='Q3' ordinal='2' />
+            <column datatype='integer' name='Q4_NPS_GROUP' ordinal='3' />
+            <column datatype='integer' name='Q4' ordinal='4' />
+            <column datatype='integer' name='Q5_1' ordinal='5' />
+            <column datatype='integer' name='Q5_2' ordinal='6' />
+            <column datatype='integer' name='Q5_3' ordinal='7' />
+            <column datatype='integer' name='Q5_4' ordinal='8' />
+            <column datatype='integer' name='Q5_5' ordinal='9' />
+            <column datatype='integer' name='Q5_6' ordinal='10' />
+            <column datatype='integer' name='Q5_7' ordinal='11' />
+            <column datatype='integer' name='Q5_8' ordinal='12' />
+            <column datatype='string' name='generation' ordinal='13' />
+            <column datatype='string' name='gender' ordinal='14' />
+            <column datatype='string' name='race' ordinal='15' />
+            <column datatype='string' name='SES' ordinal='16' />
+            <column datatype='string' name='political_spectrum' ordinal='17' />
+            <column datatype='string' name='religious_spectrum' ordinal='18' />
+            <column datatype='string' name='nationality' ordinal='19' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.1c682nz0zvslkd1aq8asu1pw5qer' name='sports_fandom.csv' table='[sports_fandom#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='string' name='Q2' ordinal='0' />
+            <column datatype='integer' name='Q3_NPS_GROUP' ordinal='1' />
+            <column datatype='integer' name='Q3' ordinal='2' />
+            <column datatype='integer' name='Q4_NPS_GROUP' ordinal='3' />
+            <column datatype='integer' name='Q4' ordinal='4' />
+            <column datatype='integer' name='Q5_1' ordinal='5' />
+            <column datatype='integer' name='Q5_2' ordinal='6' />
+            <column datatype='integer' name='Q5_3' ordinal='7' />
+            <column datatype='integer' name='Q5_4' ordinal='8' />
+            <column datatype='integer' name='Q5_5' ordinal='9' />
+            <column datatype='integer' name='Q5_6' ordinal='10' />
+            <column datatype='integer' name='Q5_7' ordinal='11' />
+            <column datatype='integer' name='Q5_8' ordinal='12' />
+            <column datatype='string' name='generation' ordinal='13' />
+            <column datatype='string' name='gender' ordinal='14' />
+            <column datatype='string' name='race' ordinal='15' />
+            <column datatype='string' name='SES' ordinal='16' />
+            <column datatype='string' name='political_spectrum' ordinal='17' />
+            <column datatype='string' name='religious_spectrum' ordinal='18' />
+            <column datatype='string' name='nationality' ordinal='19' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q2</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Q2]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q2</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q3_NPS_GROUP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q3_NPS_GROUP]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q3_NPS_GROUP</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q3]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q4_NPS_GROUP</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q4_NPS_GROUP]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q4_NPS_GROUP</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q4]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q4</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_1]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_1</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_2]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_2</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_3]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_3</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_4]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_4</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_5</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_5]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_5</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_6</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_6]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_6</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_7</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_7]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_7</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q5_8</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q5_8]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>Q5_8</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>17</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>18</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[sports_fandom.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>19</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q3 Nps Group' datatype='integer' name='[Q3_NPS_GROUP]' role='measure' type='quantitative' />
+      <column caption='Q4 Nps Group' datatype='integer' name='[Q4_NPS_GROUP]' role='measure' type='quantitative' />
+      <column caption='Q5 1' datatype='integer' name='[Q5_1]' role='measure' type='quantitative' />
+      <column caption='Q5 2' datatype='integer' name='[Q5_2]' role='measure' type='quantitative' />
+      <column caption='Q5 3' datatype='integer' name='[Q5_3]' role='measure' type='quantitative' />
+      <column caption='Q5 4' datatype='integer' name='[Q5_4]' role='measure' type='quantitative' />
+      <column caption='Q5 5' datatype='integer' name='[Q5_5]' role='measure' type='quantitative' />
+      <column caption='Q5 6' datatype='integer' name='[Q5_6]' role='measure' type='quantitative' />
+      <column caption='Q5 7' datatype='integer' name='[Q5_7]' role='measure' type='quantitative' />
+      <column caption='Q5 8' datatype='integer' name='[Q5_8]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='sports_fandom.csv' datatype='table' name='[__tableau_internal_object_id__].[sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='sports_fandom.csv' id='sports_fandom.csv_284A171BBDD44AABB317C79FCDE881BA'>
+            <properties context=''>
+              <relation connection='textscan.1c682nz0zvslkd1aq8asu1pw5qer' name='sports_fandom.csv' table='[sports_fandom#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='string' name='Q2' ordinal='0' />
+                  <column datatype='integer' name='Q3_NPS_GROUP' ordinal='1' />
+                  <column datatype='integer' name='Q3' ordinal='2' />
+                  <column datatype='integer' name='Q4_NPS_GROUP' ordinal='3' />
+                  <column datatype='integer' name='Q4' ordinal='4' />
+                  <column datatype='integer' name='Q5_1' ordinal='5' />
+                  <column datatype='integer' name='Q5_2' ordinal='6' />
+                  <column datatype='integer' name='Q5_3' ordinal='7' />
+                  <column datatype='integer' name='Q5_4' ordinal='8' />
+                  <column datatype='integer' name='Q5_5' ordinal='9' />
+                  <column datatype='integer' name='Q5_6' ordinal='10' />
+                  <column datatype='integer' name='Q5_7' ordinal='11' />
+                  <column datatype='integer' name='Q5_8' ordinal='12' />
+                  <column datatype='string' name='generation' ordinal='13' />
+                  <column datatype='string' name='gender' ordinal='14' />
+                  <column datatype='string' name='race' ordinal='15' />
+                  <column datatype='string' name='SES' ordinal='16' />
+                  <column datatype='string' name='political_spectrum' ordinal='17' />
+                  <column datatype='string' name='religious_spectrum' ordinal='18' />
+                  <column datatype='string' name='nationality' ordinal='19' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+    <datasource caption='sports_fans' inline='true' name='federated.13pod7o0hh3rs710lr4jq0awfhh0' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='sports_fans' name='textscan.0a3ku3f1a7ivn71f29j6y0lfcbll'>
+            <connection class='textscan' directory='C:/Users/seanj/Downloads' filename='sports_fans.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0a3ku3f1a7ivn71f29j6y0lfcbll' name='sports_fans.csv' table='[sports_fans#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q17_1' ordinal='0' />
+            <column datatype='integer' name='Q17_2' ordinal='1' />
+            <column datatype='integer' name='Q17_3' ordinal='2' />
+            <column datatype='integer' name='Q17_4' ordinal='3' />
+            <column datatype='integer' name='Q17_5' ordinal='4' />
+            <column datatype='integer' name='Q17_6' ordinal='5' />
+            <column datatype='integer' name='Q17_7' ordinal='6' />
+            <column datatype='integer' name='Q17_8' ordinal='7' />
+            <column datatype='integer' name='Q17_9' ordinal='8' />
+            <column datatype='integer' name='Q17_10' ordinal='9' />
+            <column datatype='string' name='generation' ordinal='10' />
+            <column datatype='string' name='gender' ordinal='11' />
+            <column datatype='string' name='race' ordinal='12' />
+            <column datatype='string' name='SES' ordinal='13' />
+            <column datatype='string' name='political_spectrum' ordinal='14' />
+            <column datatype='string' name='religious_spectrum' ordinal='15' />
+            <column datatype='string' name='nationality' ordinal='16' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0a3ku3f1a7ivn71f29j6y0lfcbll' name='sports_fans.csv' table='[sports_fans#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='Q17_1' ordinal='0' />
+            <column datatype='integer' name='Q17_2' ordinal='1' />
+            <column datatype='integer' name='Q17_3' ordinal='2' />
+            <column datatype='integer' name='Q17_4' ordinal='3' />
+            <column datatype='integer' name='Q17_5' ordinal='4' />
+            <column datatype='integer' name='Q17_6' ordinal='5' />
+            <column datatype='integer' name='Q17_7' ordinal='6' />
+            <column datatype='integer' name='Q17_8' ordinal='7' />
+            <column datatype='integer' name='Q17_9' ordinal='8' />
+            <column datatype='integer' name='Q17_10' ordinal='9' />
+            <column datatype='string' name='generation' ordinal='10' />
+            <column datatype='string' name='gender' ordinal='11' />
+            <column datatype='string' name='race' ordinal='12' />
+            <column datatype='string' name='SES' ordinal='13' />
+            <column datatype='string' name='political_spectrum' ordinal='14' />
+            <column datatype='string' name='religious_spectrum' ordinal='15' />
+            <column datatype='string' name='nationality' ordinal='16' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_1</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_1]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_1</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_2]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_2</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_3</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_3]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_3</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_4</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_4]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_4</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_5</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_5]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_5</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_6</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_6]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_6</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_7</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_7]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_7</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_8</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_8]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_8</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_9</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_9]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_9</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Q17_10</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Q17_10]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>Q17_10</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>generation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[generation]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>generation</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>SES</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[SES]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>SES</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>political_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[political_spectrum]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>political_spectrum</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>religious_spectrum</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[religious_spectrum]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>religious_spectrum</remote-alias>
+            <ordinal>15</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>nationality</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[nationality]</local-name>
+            <parent-name>[sports_fans.csv]</parent-name>
+            <remote-alias>nationality</remote-alias>
+            <ordinal>16</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Q17 10' datatype='integer' name='[Q17_10]' role='measure' type='quantitative' />
+      <column caption='Q17 1' datatype='integer' name='[Q17_1]' role='measure' type='quantitative' />
+      <column caption='Q17 2' datatype='integer' name='[Q17_2]' role='measure' type='quantitative' />
+      <column caption='Q17 3' datatype='integer' name='[Q17_3]' role='measure' type='quantitative' />
+      <column caption='Q17 4' datatype='integer' name='[Q17_4]' role='measure' type='quantitative' />
+      <column caption='Q17 5' datatype='integer' name='[Q17_5]' role='measure' type='quantitative' />
+      <column caption='Q17 6' datatype='integer' name='[Q17_6]' role='measure' type='quantitative' />
+      <column caption='Q17 7' datatype='integer' name='[Q17_7]' role='measure' type='quantitative' />
+      <column caption='Q17 8' datatype='integer' name='[Q17_8]' role='measure' type='quantitative' />
+      <column caption='Q17 9' datatype='integer' name='[Q17_9]' role='measure' type='quantitative' />
+      <_.fcp.ObjectModelTableType.true...column caption='sports_fans.csv' datatype='table' name='[__tableau_internal_object_id__].[sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+      <column caption='Nationality' datatype='string' name='[nationality]' role='dimension' type='nominal' />
+      <column caption='Political Spectrum' datatype='string' name='[political_spectrum]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Religious Spectrum' datatype='string' name='[religious_spectrum]' role='dimension' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='sports_fans.csv' id='sports_fans.csv_FD52843B41294BB8BD833E77C91CCB0C'>
+            <properties context=''>
+              <relation connection='textscan.0a3ku3f1a7ivn71f29j6y0lfcbll' name='sports_fans.csv' table='[sports_fans#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='Q17_1' ordinal='0' />
+                  <column datatype='integer' name='Q17_2' ordinal='1' />
+                  <column datatype='integer' name='Q17_3' ordinal='2' />
+                  <column datatype='integer' name='Q17_4' ordinal='3' />
+                  <column datatype='integer' name='Q17_5' ordinal='4' />
+                  <column datatype='integer' name='Q17_6' ordinal='5' />
+                  <column datatype='integer' name='Q17_7' ordinal='6' />
+                  <column datatype='integer' name='Q17_8' ordinal='7' />
+                  <column datatype='integer' name='Q17_9' ordinal='8' />
+                  <column datatype='integer' name='Q17_10' ordinal='9' />
+                  <column datatype='string' name='generation' ordinal='10' />
+                  <column datatype='string' name='gender' ordinal='11' />
+                  <column datatype='string' name='race' ordinal='12' />
+                  <column datatype='string' name='SES' ordinal='13' />
+                  <column datatype='string' name='political_spectrum' ordinal='14' />
+                  <column datatype='string' name='religious_spectrum' ordinal='15' />
+                  <column datatype='string' name='nationality' ordinal='16' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='fan_demographics' name='federated.07g5zn30uyatvf12shbsl0lezb8q' />
+          </datasources>
+          <datasource-dependencies datasource='federated.07g5zn30uyatvf12shbsl0lezb8q'>
+            <column caption='Q18 1' datatype='integer' name='[Q18_1]' role='measure' type='quantitative' />
+            <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+            <column caption='Generation' datatype='string' name='[generation]' role='dimension' type='nominal' />
+            <column-instance column='[Q18_1]' derivation='Median' name='[med:Q18_1:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[gender]' derivation='None' name='[none:gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[generation]' derivation='None' name='[none:generation:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:gender:nk]'>
+            <groupfilter function='union' user:ui-domain='relevant' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:gender:nk]' member='&quot;Female&quot;' />
+              <groupfilter function='member' level='[none:gender:nk]' member='&quot;Male&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:gender:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:generation:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.07g5zn30uyatvf12shbsl0lezb8q].[med:Q18_1:qk]</rows>
+        <cols>([federated.07g5zn30uyatvf12shbsl0lezb8q].[none:gender:nk] / [federated.07g5zn30uyatvf12shbsl0lezb8q].[none:generation:nk])</cols>
+      </table>
+      <simple-id uuid='{5AD521AD-1455-4C04-A1C5-ACD41E6D63C6}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='177'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:generation:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.07g5zn30uyatvf12shbsl0lezb8q].[:Measure Names]</field>
+            <field>[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:gender:nk]</field>
+            <field>[federated.07g5zn30uyatvf12shbsl0lezb8q].[none:generation:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{7DA705A8-C337-4B1F-9372-6962B3FEDAFB}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='384' name='Sheet 1' width='384'>
+      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
+      AAAAAElFTkSuQmCC
+    </thumbnail>
+  </thumbnails>
+</workbook>
